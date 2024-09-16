@@ -10,11 +10,13 @@ external-cache-path;/Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/38/jl/res/
 external-path;/Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/38/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/ic_launcher.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/ic_launcher_round.xml
+ImageView;obj/Debug/res/layout/dropdown_item.xml
 item;obj/Debug/res/values/styles.xml
 LinearLayout;obj/Debug/res/layout/activity_main.xml
 LinearLayout;obj/Debug/res/layout/dropdown_item.xml
 paths;/Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/38/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj/Debug/res/layout/activity_main.xml
+RelativeLayout;obj/Debug/res/layout/dropdown_item.xml
 resources;obj/Debug/res/values/colors.xml
 resources;obj/Debug/res/values/ic_launcher_background.xml
 resources;obj/Debug/res/values/strings.xml

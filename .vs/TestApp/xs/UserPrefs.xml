@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/MainActivity.cs">
     <Files>
-      <File FileName="TestApp/MainActivity.cs" Line="29" Column="54" />
+      <File FileName="TestApp/MainActivity.cs" Line="36" Column="84" />
       <File FileName="TestApp/Resources/layout/activity_main.xml" />
       <File FileName="TestApp/Resources/layout/dropdown_item.xml" />
       <File FileName="TestApp/Adapters/ItemAdapter.cs" />
@@ -21,6 +21,7 @@
                 <Node name="layout" expanded="True" />
               </Node>
               <Node name="Utils" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>
