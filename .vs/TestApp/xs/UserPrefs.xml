@@ -1,0 +1,37 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{DDCBB91D-3395-4D1E-A6CA-42F5830FA6A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestApp PreferredExecutionTarget="Android.Pixel_5_API_33" AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="AppTheme" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/MainActivity.cs">
+    <Files>
+      <File FileName="TestApp/MainActivity.cs" Line="29" Column="54" />
+      <File FileName="TestApp/Resources/layout/activity_main.xml" />
+      <File FileName="TestApp/Resources/layout/dropdown_item.xml" />
+      <File FileName="TestApp/Adapters/ItemAdapter.cs" />
+      <File FileName="TestApp/Models/User.cs" />
+      <File FileName="TestApp/Utils/Wrapper.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp" expanded="True">
+            <Node name="TestApp" expanded="True">
+              <Node name="Adapters" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="Utils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_5_API_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
