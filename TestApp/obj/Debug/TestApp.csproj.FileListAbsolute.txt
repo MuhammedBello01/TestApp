@@ -1,14 +1,6 @@
-/Users/wema/Projects/TestApp/TestApp/bin/Debug/TestApp.dll
-/Users/wema/Projects/TestApp/TestApp/bin/Debug/TestApp.pdb
-/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp.apk
-/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp.aab
-/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp-Signed.aab
-/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp-Signed.apk
-/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp-Signed.apk.idsig
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/MonoAndroid,Version=v13.0.AssemblyAttributes.cs
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/build.props
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/adb.props
-/Users/wema/Projects/TestApp/TestApp/obj/Debug/TestApp.csproj.AssemblyReference.cache
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/res.flag
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/38/jl/files.cache
@@ -24,6 +16,13 @@
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/72/jl/files.cache
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/73/jl/files.cache
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/74/jl/files.cache
+/Users/wema/Projects/TestApp/TestApp/bin/Debug/TestApp.dll
+/Users/wema/Projects/TestApp/TestApp/bin/Debug/TestApp.pdb
+/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp.apk
+/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp.aab
+/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp-Signed.aab
+/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp-Signed.apk
+/Users/wema/Projects/TestApp/TestApp/bin/Debug/com.companyname.testapp-Signed.apk.idsig
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/R.txt
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/R.cs.flag
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/TestApp.csproj.CoreCompileInputs.cache
@@ -55,6 +54,8 @@
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/res/mipmap-xxxhdpi/ic_launcher.png
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/res/mipmap-xxxhdpi/ic_launcher_foreground.png
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/res/mipmap-xxxhdpi/ic_launcher_round.png
+/Users/wema/Projects/TestApp/TestApp/obj/Debug/res/layout/dropdown_item.xml
+/Users/wema/Projects/TestApp/TestApp/obj/Debug/res/drawable/ic_test.png
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/uploadflags.txt
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/resolvedassemblies.hash
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/assets/Java.Interop.dll
@@ -203,6 +204,8 @@
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc640aad9a0ab5a3b676/MainActivity.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64396a3fe5f8138e3f/CustomTabsServiceConnectionImpl.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64396a3fe5f8138e3f/KeepAliveService.java
+/Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64975f0974d49b6a14/ItemAdapter.java
+/Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64975f0974d49b6a14/ItemAdapter_UserFilter.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BarometerListener.java
@@ -220,6 +223,7 @@
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorCallbackActivity.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64a0e0a82d0db9a07d/WebAuthenticatorIntermediateActivity.java
+/Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64f62dcf4bb872892e/Wrapper_JavaHolder.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnMenuVisibilityListenerImplementor.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/mono/androidx/appcompat/app/ActionBar_OnNavigationListenerImplementor.java
@@ -312,7 +316,4 @@
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
-/Users/wema/Projects/TestApp/TestApp/obj/Debug/res/layout/dropdown_item.xml
-/Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64975f0974d49b6a14/ItemAdapter.java
-/Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64975f0974d49b6a14/ItemAdapter_UserFilter.java
-/Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64f62dcf4bb872892e/Wrapper_JavaHolder.java
+/Users/wema/Projects/TestApp/TestApp/obj/Debug/TestApp.csproj.AssemblyReference.cache
