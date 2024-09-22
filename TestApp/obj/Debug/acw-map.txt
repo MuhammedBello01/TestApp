@@ -1,9 +1,15 @@
 TestApp.MainActivity, TestApp;crc640aad9a0ab5a3b676.MainActivity
 TestApp.MainActivity;crc640aad9a0ab5a3b676.MainActivity
 testapp.MainActivity;crc640aad9a0ab5a3b676.MainActivity
+TestApp.TabActivity, TestApp;crc640aad9a0ab5a3b676.TabActivity
+TestApp.TabActivity;crc640aad9a0ab5a3b676.TabActivity
+testapp.TabActivity;crc640aad9a0ab5a3b676.TabActivity
 TestApp.Utils.Wrapper+JavaHolder, TestApp;crc64f62dcf4bb872892e.Wrapper_JavaHolder
 TestApp.Utils.Wrapper.JavaHolder;crc64f62dcf4bb872892e.Wrapper_JavaHolder
 testapp.utils.Wrapper_JavaHolder;crc64f62dcf4bb872892e.Wrapper_JavaHolder
+TestApp.Utils.DottedProgressBar, TestApp;crc64f62dcf4bb872892e.DottedProgressBar
+TestApp.Utils.DottedProgressBar;crc64f62dcf4bb872892e.DottedProgressBar
+testapp.utils.DottedProgressBar;crc64f62dcf4bb872892e.DottedProgressBar
 TestApp.Adapters.ItemAdapter, TestApp;crc64975f0974d49b6a14.ItemAdapter
 TestApp.Adapters.ItemAdapter;crc64975f0974d49b6a14.ItemAdapter
 testapp.adapters.ItemAdapter;crc64975f0974d49b6a14.ItemAdapter

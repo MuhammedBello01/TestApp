@@ -1,0 +1,1 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><shape android:shape="ring" android:innerRadiusRatio="3" android:thicknessRatio="5" android:useLevel="false"><!-- Stroke will be dashed to create circle dots --><stroke android:color="#A90836" android:width="2dp" android:dashWidth="2dp" android:dashGap="4dp" /></shape></item></layer-list>

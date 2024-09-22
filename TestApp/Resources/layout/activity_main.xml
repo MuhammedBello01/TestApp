@@ -5,7 +5,8 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
-	android:orientation="vertical">
+	android:orientation="vertical"
+	android:padding="10dp">
 
 
 	<AutoCompleteTextView
@@ -13,5 +14,49 @@
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:hint="Type something..."
-		android:inputType="text" />
+		android:inputType="text"
+		android:drawableEnd="?android:attr/actionModePasteDrawable"
+	/>
+
+	<RelativeLayout
+		android:id="@+id/progress_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+		android:layout_marginTop="10dp"
+		android:layout_marginBottom="2dp"
+		android:visibility="gone">
+
+		<!--<TestApp.Utils.DottedProgressBar
+			android:id="@+id/progressBar"
+			android:layout_width="50dp"
+			android:layout_height="50dp"
+			android:indeterminateDrawable="@drawable/dotted_progress" 
+			/>-->
+
+		<TestApp.Utils.DottedProgressBar
+			android:id="@+id/progressBar"
+			android:layout_width="30dp"
+			android:layout_height="30dp"
+			/>
+
+		<TextView
+			android:id="@+id/progress_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:text="Finding matching bank..."
+			android:layout_marginTop="5dp"
+			android:layout_toRightOf="@+id/progressBar"
+			android:layout_marginStart="10dp"/>
+
+
+    </RelativeLayout>
+
+	
+	<Button
+		android:id="@+id/nxt_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+		android:text="Next"
+		android:textAllCaps="false"
+	/>
 </LinearLayout>

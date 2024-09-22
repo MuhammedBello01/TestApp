@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2kNredz+eBGsvtmDnh61ZkldqciBoOxXXulv3lMPmcF9ADd0yBdkcw5UXgJWf14Sk/yShec9tbZYWGqLZMuKVA==",
+  "dgSpecHash": "7dsff2P7tsGdYe8Bx0k+y5QwCEnPBrzSOOnCeWvFIiwpFiiwbxEhFXL2zMQdzlcJ3BCdzVh2q8BvJts8zGYEJA==",
   "success": true,
   "projectFilePath": "/Users/wema/Projects/TestApp/TestApp/TestApp.csproj",
   "expectedPackageFiles": [
+    "/Users/wema/.nuget/packages/libphonenumber-csharp/8.13.45/libphonenumber-csharp.8.13.45.nupkg.sha512",
+    "/Users/wema/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
+    "/Users/wema/.nuget/packages/system.io.compression/4.3.0/system.io.compression.4.3.0.nupkg.sha512",
     "/Users/wema/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/wema/.nuget/packages/xamarin.androidx.activity/1.1.0.3/xamarin.androidx.activity.1.1.0.3.nupkg.sha512",
     "/Users/wema/.nuget/packages/xamarin.androidx.annotation/1.1.0.7/xamarin.androidx.annotation.1.1.0.7.nupkg.sha512",
