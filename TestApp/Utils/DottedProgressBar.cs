@@ -45,7 +45,7 @@ namespace TestApp.Utils
 
             // Dot size range
             _minDotSize = 2f;  // Minimum dot size
-            _maxDotSize = 10f; // Maximum dot size
+            _maxDotSize = 7f; // Maximum dot size
         }
 
         protected override void OnDraw(Canvas canvas)
@@ -72,7 +72,7 @@ namespace TestApp.Utils
             }
 
             // Optionally, you can animate the dots by rotating them over time
-            _currentAngle += 1; // Slowly rotate the dots
+            _currentAngle += 3; // Slowly rotate the dots
             Invalidate(); // Redraw the view for animation
         }
     }
