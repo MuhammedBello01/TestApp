@@ -11,6 +11,7 @@ using AndroidX.AppCompat.App;
 using Google.Android.Material.TextField;
 using TestApp.Adapters;
 using TestApp.Models;
+using TestApp.Utils;
 using AlertDialog = AndroidX.AppCompat.App.AlertDialog;
 
 namespace TestApp
@@ -23,6 +24,7 @@ namespace TestApp
         private AlertDialog progressDialog;
         private Button NextBtn;
         private RelativeLayout ProgressView;
+        private CustomDottedProgressBar progressBar;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -33,8 +35,15 @@ namespace TestApp
             autoCompleteTextView = FindViewById<AutoCompleteTextView>(Resource.Id.autoCompleteTextView);
             NextBtn = FindViewById<Button>(Resource.Id.nxt_btn);
             ProgressView = FindViewById<RelativeLayout>(Resource.Id.progress_view);
+            progressBar = FindViewById<CustomDottedProgressBar>(Resource.Id.progressBar);
             clipboard = (ClipboardManager)GetSystemService(ClipboardService);
             NextBtn.Click += NextBtn_Click;
+
+            progressBar.Speed = 2; // Set speed of rotation
+            progressBar.FrameRate = 5; // Set frame rate for smoother/faster updates. The lower the better
+            progressBar.DotCount = 8; // More dots for denser circle
+            progressBar.MinDotSize = 2f; // Minimum size of dots
+            progressBar.MaxDotSize = 7f; // Maximum size of dots
 
             //var suggestions = new List<string>
             //{

@@ -1,19 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:orientation="vertical"
-    android:gravity="center"
-    android:padding="5dp"
-    android:background="@android:color/transparent">
+    android:gravity="center">
 
+    <!-- Circular ProgressBar -->
     <ProgressBar
-        android:id="@+id/progress_bar"
-        android:layout_width="20dp"
-        android:layout_height="20dp"
+        android:id="@+id/circularProgressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
         android:indeterminate="true"
-        style="@android:style/Widget.ProgressBar.Small"
         android:layout_gravity="center" />
 
-</LinearLayout>
-
+    <!-- Logo in the center -->
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_mtrl_chip_checked_circle" 
+        android:layout_gravity="center"
+        android:contentDescription=""/>
+        
+</FrameLayout>

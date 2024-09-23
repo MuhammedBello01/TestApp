@@ -1,17 +1,23 @@
-﻿<Properties StartupConfiguration="{DDCBB91D-3395-4D1E-A6CA-42F5830FA6A9}|Default" GitUserInfo="UsingMD">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{DDCBB91D-3395-4D1E-A6CA-42F5830FA6A9}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_5_API_33" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TestApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_5_API_33" AndroidDesignerPreferredTheme="AppTheme" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestApp PreferredExecutionTarget="Android.Pixel_5_API_33" AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/TabActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/Utils/DottedProgressBar.cs">
     <Files>
-      <File FileName="TestApp/Adapters/ItemAdapter.cs" />
+      <File FileName="TestApp/Adapters/ItemAdapter.cs" Line="1" Column="1" />
       <File FileName="TestApp/Models/User.cs" />
       <File FileName="TestApp/Utils/Wrapper.cs" />
-      <File FileName="TestApp/MainActivity.cs" Line="65" Column="10" />
+      <File FileName="TestApp/MainActivity.cs" Line="31" Column="1" />
       <File FileName="TestApp/TabActivity.cs" Line="1" Column="1" />
+      <File FileName="TestApp/Resources/layout/activity_main.xml" Line="39" Column="29" />
+      <File FileName="TestApp/Resources/layout/circular_progress_dialog.xml" Line="14" Column="37" />
+      <File FileName="TestApp/Resources/drawable/dotted_progress.xml" Line="5" Column="12" />
+      <File FileName="TestApp/Resources/drawable/dotted_circle_shape.xml" Line="12" Column="31" />
+      <File FileName="TestApp/Utils/SpiralProgressBar.cs" Line="43" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,14 +25,17 @@
           <Node name="TestApp" expanded="True">
             <Node name="TestApp" expanded="True">
               <Node name="Adapters" expanded="True" />
-              <Node name="TabActivity.cs" selected="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="Utils" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_5_API_33" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MultiItemStartupConfigurations />
 </Properties>

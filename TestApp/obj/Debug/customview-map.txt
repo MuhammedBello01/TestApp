@@ -12,6 +12,8 @@ external-cache-path;/Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/38/jl/res/
 external-path;/Users/wema/Projects/TestApp/TestApp/obj/Debug/lp/38/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/ic_launcher.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/ic_launcher_round.xml
+FrameLayout;obj/Debug/res/layout/circular_progress_dialog.xml
+ImageView;obj/Debug/res/layout/circular_progress_dialog.xml
 ImageView;obj/Debug/res/layout/dropdown_item.xml
 item;obj/Debug/res/drawable/dotted_circle_shape.xml
 item;obj/Debug/res/values/styles.xml
@@ -35,6 +37,7 @@ solid;obj/Debug/res/drawable/dotted_circle_shape.xml
 string;obj/Debug/res/values/strings.xml
 stroke;obj/Debug/res/drawable/dotted_circle_shape.xml
 style;obj/Debug/res/values/styles.xml
+TestApp.Utils.CustomDottedProgressBar;obj/Debug/res/layout/activity_main.xml
 TestApp.Utils.DottedProgressBar;obj/Debug/res/layout/activity_main.xml
 TestApp.Utils.SpiralProgressBar;obj/Debug/res/layout/activity_main.xml
 TextView;obj/Debug/res/layout/activity_main.xml

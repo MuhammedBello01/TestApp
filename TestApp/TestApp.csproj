@@ -67,6 +67,7 @@
     <Compile Include="Utils\Wrapper.cs" />
     <Compile Include="TabActivity.cs" />
     <Compile Include="Utils\DottedProgressBar.cs" />
+    <Compile Include="Utils\CustomDottedProgressBar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />

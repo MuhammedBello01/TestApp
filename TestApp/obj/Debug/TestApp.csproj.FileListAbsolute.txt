@@ -345,3 +345,4 @@
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/res/drawable/dotted_circle_shape.xml
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64f62dcf4bb872892e/SpiralProgressBar.java
 /Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64f62dcf4bb872892e/DottedProgressBar.java
+/Users/wema/Projects/TestApp/TestApp/obj/Debug/android/src/crc64f62dcf4bb872892e/CustomDottedProgressBar.java

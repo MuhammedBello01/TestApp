@@ -33,11 +33,11 @@
 			android:indeterminateDrawable="@drawable/dotted_progress" 
 			/>-->
 
-		<TestApp.Utils.DottedProgressBar
+		<TestApp.Utils.CustomDottedProgressBar
 			android:id="@+id/progressBar"
 			android:layout_width="25dp"
 			android:layout_height="25dp"
-			/>
+		/>
 
 		<TextView
 			android:id="@+id/progress_message"
