@@ -26,6 +26,1708 @@ namespace TestApp
 		
 		public static void UpdateIdValues()
 		{
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_fade_in = global::TestApp.Resource.Animation.abc_fade_in;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_fade_out = global::TestApp.Resource.Animation.abc_fade_out;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_grow_fade_in_from_bottom = global::TestApp.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_popup_enter = global::TestApp.Resource.Animation.abc_popup_enter;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_popup_exit = global::TestApp.Resource.Animation.abc_popup_exit;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_shrink_fade_out_from_bottom = global::TestApp.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_slide_in_bottom = global::TestApp.Resource.Animation.abc_slide_in_bottom;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_slide_in_top = global::TestApp.Resource.Animation.abc_slide_in_top;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_slide_out_bottom = global::TestApp.Resource.Animation.abc_slide_out_bottom;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_slide_out_top = global::TestApp.Resource.Animation.abc_slide_out_top;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_tooltip_enter = global::TestApp.Resource.Animation.abc_tooltip_enter;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.abc_tooltip_exit = global::TestApp.Resource.Animation.abc_tooltip_exit;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::TestApp.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::TestApp.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::TestApp.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::TestApp.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::TestApp.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::TestApp.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::TestApp.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::TestApp.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::TestApp.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::TestApp.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::TestApp.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::TestApp.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.fragment_close_enter = global::TestApp.Resource.Animation.fragment_close_enter;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.fragment_close_exit = global::TestApp.Resource.Animation.fragment_close_exit;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.fragment_fade_enter = global::TestApp.Resource.Animation.fragment_fade_enter;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.fragment_fade_exit = global::TestApp.Resource.Animation.fragment_fade_exit;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.fragment_fast_out_extra_slow_in = global::TestApp.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.fragment_open_enter = global::TestApp.Resource.Animation.fragment_open_enter;
+			global::AccountNumberPredictionLibrary2.Resource.Animation.fragment_open_exit = global::TestApp.Resource.Animation.fragment_open_exit;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarDivider = global::TestApp.Resource.Attribute.actionBarDivider;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarItemBackground = global::TestApp.Resource.Attribute.actionBarItemBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarPopupTheme = global::TestApp.Resource.Attribute.actionBarPopupTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarSize = global::TestApp.Resource.Attribute.actionBarSize;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarSplitStyle = global::TestApp.Resource.Attribute.actionBarSplitStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarStyle = global::TestApp.Resource.Attribute.actionBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarTabBarStyle = global::TestApp.Resource.Attribute.actionBarTabBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarTabStyle = global::TestApp.Resource.Attribute.actionBarTabStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarTabTextStyle = global::TestApp.Resource.Attribute.actionBarTabTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarTheme = global::TestApp.Resource.Attribute.actionBarTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionBarWidgetTheme = global::TestApp.Resource.Attribute.actionBarWidgetTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionButtonStyle = global::TestApp.Resource.Attribute.actionButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionDropDownStyle = global::TestApp.Resource.Attribute.actionDropDownStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionLayout = global::TestApp.Resource.Attribute.actionLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionMenuTextAppearance = global::TestApp.Resource.Attribute.actionMenuTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionMenuTextColor = global::TestApp.Resource.Attribute.actionMenuTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeBackground = global::TestApp.Resource.Attribute.actionModeBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeCloseButtonStyle = global::TestApp.Resource.Attribute.actionModeCloseButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeCloseDrawable = global::TestApp.Resource.Attribute.actionModeCloseDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeCopyDrawable = global::TestApp.Resource.Attribute.actionModeCopyDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeCutDrawable = global::TestApp.Resource.Attribute.actionModeCutDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeFindDrawable = global::TestApp.Resource.Attribute.actionModeFindDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModePasteDrawable = global::TestApp.Resource.Attribute.actionModePasteDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModePopupWindowStyle = global::TestApp.Resource.Attribute.actionModePopupWindowStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeSelectAllDrawable = global::TestApp.Resource.Attribute.actionModeSelectAllDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeShareDrawable = global::TestApp.Resource.Attribute.actionModeShareDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeSplitBackground = global::TestApp.Resource.Attribute.actionModeSplitBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeStyle = global::TestApp.Resource.Attribute.actionModeStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionModeWebSearchDrawable = global::TestApp.Resource.Attribute.actionModeWebSearchDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionOverflowButtonStyle = global::TestApp.Resource.Attribute.actionOverflowButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionOverflowMenuStyle = global::TestApp.Resource.Attribute.actionOverflowMenuStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionProviderClass = global::TestApp.Resource.Attribute.actionProviderClass;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.actionViewClass = global::TestApp.Resource.Attribute.actionViewClass;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.activityChooserViewStyle = global::TestApp.Resource.Attribute.activityChooserViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.alertDialogButtonGroupStyle = global::TestApp.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.alertDialogCenterButtons = global::TestApp.Resource.Attribute.alertDialogCenterButtons;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.alertDialogStyle = global::TestApp.Resource.Attribute.alertDialogStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.alertDialogTheme = global::TestApp.Resource.Attribute.alertDialogTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.allowStacking = global::TestApp.Resource.Attribute.allowStacking;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.alpha = global::TestApp.Resource.Attribute.alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.alphabeticModifiers = global::TestApp.Resource.Attribute.alphabeticModifiers;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.arrowHeadLength = global::TestApp.Resource.Attribute.arrowHeadLength;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.arrowShaftLength = global::TestApp.Resource.Attribute.arrowShaftLength;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.autoCompleteTextViewStyle = global::TestApp.Resource.Attribute.autoCompleteTextViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.autoSizeMaxTextSize = global::TestApp.Resource.Attribute.autoSizeMaxTextSize;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.autoSizeMinTextSize = global::TestApp.Resource.Attribute.autoSizeMinTextSize;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.autoSizePresetSizes = global::TestApp.Resource.Attribute.autoSizePresetSizes;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.autoSizeStepGranularity = global::TestApp.Resource.Attribute.autoSizeStepGranularity;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.autoSizeTextType = global::TestApp.Resource.Attribute.autoSizeTextType;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.background = global::TestApp.Resource.Attribute.background;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.backgroundSplit = global::TestApp.Resource.Attribute.backgroundSplit;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.backgroundStacked = global::TestApp.Resource.Attribute.backgroundStacked;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.backgroundTint = global::TestApp.Resource.Attribute.backgroundTint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.backgroundTintMode = global::TestApp.Resource.Attribute.backgroundTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.barLength = global::TestApp.Resource.Attribute.barLength;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.borderlessButtonStyle = global::TestApp.Resource.Attribute.borderlessButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonBarButtonStyle = global::TestApp.Resource.Attribute.buttonBarButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonBarNegativeButtonStyle = global::TestApp.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonBarNeutralButtonStyle = global::TestApp.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonBarPositiveButtonStyle = global::TestApp.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonBarStyle = global::TestApp.Resource.Attribute.buttonBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonCompat = global::TestApp.Resource.Attribute.buttonCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonGravity = global::TestApp.Resource.Attribute.buttonGravity;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonIconDimen = global::TestApp.Resource.Attribute.buttonIconDimen;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonPanelSideLayout = global::TestApp.Resource.Attribute.buttonPanelSideLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonStyle = global::TestApp.Resource.Attribute.buttonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonStyleSmall = global::TestApp.Resource.Attribute.buttonStyleSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonTint = global::TestApp.Resource.Attribute.buttonTint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.buttonTintMode = global::TestApp.Resource.Attribute.buttonTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.checkboxStyle = global::TestApp.Resource.Attribute.checkboxStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.checkedTextViewStyle = global::TestApp.Resource.Attribute.checkedTextViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.closeIcon = global::TestApp.Resource.Attribute.closeIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.closeItemLayout = global::TestApp.Resource.Attribute.closeItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.collapseContentDescription = global::TestApp.Resource.Attribute.collapseContentDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.collapseIcon = global::TestApp.Resource.Attribute.collapseIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.color = global::TestApp.Resource.Attribute.color;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorAccent = global::TestApp.Resource.Attribute.colorAccent;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorBackgroundFloating = global::TestApp.Resource.Attribute.colorBackgroundFloating;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorButtonNormal = global::TestApp.Resource.Attribute.colorButtonNormal;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorControlActivated = global::TestApp.Resource.Attribute.colorControlActivated;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorControlHighlight = global::TestApp.Resource.Attribute.colorControlHighlight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorControlNormal = global::TestApp.Resource.Attribute.colorControlNormal;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorError = global::TestApp.Resource.Attribute.colorError;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorPrimary = global::TestApp.Resource.Attribute.colorPrimary;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorPrimaryDark = global::TestApp.Resource.Attribute.colorPrimaryDark;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.colorSwitchThumbNormal = global::TestApp.Resource.Attribute.colorSwitchThumbNormal;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.commitIcon = global::TestApp.Resource.Attribute.commitIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.contentDescription = global::TestApp.Resource.Attribute.contentDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.contentInsetEnd = global::TestApp.Resource.Attribute.contentInsetEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.contentInsetEndWithActions = global::TestApp.Resource.Attribute.contentInsetEndWithActions;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.contentInsetLeft = global::TestApp.Resource.Attribute.contentInsetLeft;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.contentInsetRight = global::TestApp.Resource.Attribute.contentInsetRight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.contentInsetStart = global::TestApp.Resource.Attribute.contentInsetStart;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.contentInsetStartWithNavigation = global::TestApp.Resource.Attribute.contentInsetStartWithNavigation;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.controlBackground = global::TestApp.Resource.Attribute.controlBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.customNavigationLayout = global::TestApp.Resource.Attribute.customNavigationLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.defaultQueryHint = global::TestApp.Resource.Attribute.defaultQueryHint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dialogCornerRadius = global::TestApp.Resource.Attribute.dialogCornerRadius;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dialogPreferredPadding = global::TestApp.Resource.Attribute.dialogPreferredPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dialogTheme = global::TestApp.Resource.Attribute.dialogTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.displayOptions = global::TestApp.Resource.Attribute.displayOptions;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.divider = global::TestApp.Resource.Attribute.divider;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dividerHorizontal = global::TestApp.Resource.Attribute.dividerHorizontal;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dividerPadding = global::TestApp.Resource.Attribute.dividerPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dividerVertical = global::TestApp.Resource.Attribute.dividerVertical;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableBottomCompat = global::TestApp.Resource.Attribute.drawableBottomCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableEndCompat = global::TestApp.Resource.Attribute.drawableEndCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableLeftCompat = global::TestApp.Resource.Attribute.drawableLeftCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableRightCompat = global::TestApp.Resource.Attribute.drawableRightCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableSize = global::TestApp.Resource.Attribute.drawableSize;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableStartCompat = global::TestApp.Resource.Attribute.drawableStartCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableTint = global::TestApp.Resource.Attribute.drawableTint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableTintMode = global::TestApp.Resource.Attribute.drawableTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawableTopCompat = global::TestApp.Resource.Attribute.drawableTopCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawerArrowStyle = global::TestApp.Resource.Attribute.drawerArrowStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.drawerLayoutStyle = global::TestApp.Resource.Attribute.drawerLayoutStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dropdownListPreferredItemHeight = global::TestApp.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.dropDownListViewStyle = global::TestApp.Resource.Attribute.dropDownListViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.editTextBackground = global::TestApp.Resource.Attribute.editTextBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.editTextColor = global::TestApp.Resource.Attribute.editTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.editTextStyle = global::TestApp.Resource.Attribute.editTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.elevation = global::TestApp.Resource.Attribute.elevation;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.expandActivityOverflowButtonDrawable = global::TestApp.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.firstBaselineToTopHeight = global::TestApp.Resource.Attribute.firstBaselineToTopHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.font = global::TestApp.Resource.Attribute.font;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontFamily = global::TestApp.Resource.Attribute.fontFamily;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontProviderAuthority = global::TestApp.Resource.Attribute.fontProviderAuthority;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontProviderCerts = global::TestApp.Resource.Attribute.fontProviderCerts;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontProviderFetchStrategy = global::TestApp.Resource.Attribute.fontProviderFetchStrategy;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontProviderFetchTimeout = global::TestApp.Resource.Attribute.fontProviderFetchTimeout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontProviderPackage = global::TestApp.Resource.Attribute.fontProviderPackage;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontProviderQuery = global::TestApp.Resource.Attribute.fontProviderQuery;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontStyle = global::TestApp.Resource.Attribute.fontStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontVariationSettings = global::TestApp.Resource.Attribute.fontVariationSettings;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.fontWeight = global::TestApp.Resource.Attribute.fontWeight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.gapBetweenBars = global::TestApp.Resource.Attribute.gapBetweenBars;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.goIcon = global::TestApp.Resource.Attribute.goIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.height = global::TestApp.Resource.Attribute.height;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.hideOnContentScroll = global::TestApp.Resource.Attribute.hideOnContentScroll;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.homeAsUpIndicator = global::TestApp.Resource.Attribute.homeAsUpIndicator;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.homeLayout = global::TestApp.Resource.Attribute.homeLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.icon = global::TestApp.Resource.Attribute.icon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.iconifiedByDefault = global::TestApp.Resource.Attribute.iconifiedByDefault;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.iconTint = global::TestApp.Resource.Attribute.iconTint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.iconTintMode = global::TestApp.Resource.Attribute.iconTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.imageButtonStyle = global::TestApp.Resource.Attribute.imageButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.indeterminateProgressStyle = global::TestApp.Resource.Attribute.indeterminateProgressStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.initialActivityCount = global::TestApp.Resource.Attribute.initialActivityCount;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.isLightTheme = global::TestApp.Resource.Attribute.isLightTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.itemPadding = global::TestApp.Resource.Attribute.itemPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.lastBaselineToBottomHeight = global::TestApp.Resource.Attribute.lastBaselineToBottomHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.layout = global::TestApp.Resource.Attribute.layout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.lineHeight = global::TestApp.Resource.Attribute.lineHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listChoiceBackgroundIndicator = global::TestApp.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::TestApp.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::TestApp.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listDividerAlertDialog = global::TestApp.Resource.Attribute.listDividerAlertDialog;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listItemLayout = global::TestApp.Resource.Attribute.listItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listLayout = global::TestApp.Resource.Attribute.listLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listMenuViewStyle = global::TestApp.Resource.Attribute.listMenuViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPopupWindowStyle = global::TestApp.Resource.Attribute.listPopupWindowStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPreferredItemHeight = global::TestApp.Resource.Attribute.listPreferredItemHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPreferredItemHeightLarge = global::TestApp.Resource.Attribute.listPreferredItemHeightLarge;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPreferredItemHeightSmall = global::TestApp.Resource.Attribute.listPreferredItemHeightSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPreferredItemPaddingEnd = global::TestApp.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPreferredItemPaddingLeft = global::TestApp.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPreferredItemPaddingRight = global::TestApp.Resource.Attribute.listPreferredItemPaddingRight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.listPreferredItemPaddingStart = global::TestApp.Resource.Attribute.listPreferredItemPaddingStart;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.logo = global::TestApp.Resource.Attribute.logo;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.logoDescription = global::TestApp.Resource.Attribute.logoDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.maxButtonHeight = global::TestApp.Resource.Attribute.maxButtonHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.measureWithLargestChild = global::TestApp.Resource.Attribute.measureWithLargestChild;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.menu = global::TestApp.Resource.Attribute.menu;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.multiChoiceItemLayout = global::TestApp.Resource.Attribute.multiChoiceItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.navigationContentDescription = global::TestApp.Resource.Attribute.navigationContentDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.navigationIcon = global::TestApp.Resource.Attribute.navigationIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.navigationMode = global::TestApp.Resource.Attribute.navigationMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.numericModifiers = global::TestApp.Resource.Attribute.numericModifiers;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.overlapAnchor = global::TestApp.Resource.Attribute.overlapAnchor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.paddingBottomNoButtons = global::TestApp.Resource.Attribute.paddingBottomNoButtons;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.paddingEnd = global::TestApp.Resource.Attribute.paddingEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.paddingStart = global::TestApp.Resource.Attribute.paddingStart;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.paddingTopNoTitle = global::TestApp.Resource.Attribute.paddingTopNoTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.panelBackground = global::TestApp.Resource.Attribute.panelBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.panelMenuListTheme = global::TestApp.Resource.Attribute.panelMenuListTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.panelMenuListWidth = global::TestApp.Resource.Attribute.panelMenuListWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.popupMenuStyle = global::TestApp.Resource.Attribute.popupMenuStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.popupTheme = global::TestApp.Resource.Attribute.popupTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.popupWindowStyle = global::TestApp.Resource.Attribute.popupWindowStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.preserveIconSpacing = global::TestApp.Resource.Attribute.preserveIconSpacing;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.progressBarPadding = global::TestApp.Resource.Attribute.progressBarPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.progressBarStyle = global::TestApp.Resource.Attribute.progressBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.queryBackground = global::TestApp.Resource.Attribute.queryBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.queryHint = global::TestApp.Resource.Attribute.queryHint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.radioButtonStyle = global::TestApp.Resource.Attribute.radioButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.ratingBarStyle = global::TestApp.Resource.Attribute.ratingBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.ratingBarStyleIndicator = global::TestApp.Resource.Attribute.ratingBarStyleIndicator;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.ratingBarStyleSmall = global::TestApp.Resource.Attribute.ratingBarStyleSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.searchHintIcon = global::TestApp.Resource.Attribute.searchHintIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.searchIcon = global::TestApp.Resource.Attribute.searchIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.searchViewStyle = global::TestApp.Resource.Attribute.searchViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.seekBarStyle = global::TestApp.Resource.Attribute.seekBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.selectableItemBackground = global::TestApp.Resource.Attribute.selectableItemBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.selectableItemBackgroundBorderless = global::TestApp.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.showAsAction = global::TestApp.Resource.Attribute.showAsAction;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.showDividers = global::TestApp.Resource.Attribute.showDividers;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.showText = global::TestApp.Resource.Attribute.showText;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.showTitle = global::TestApp.Resource.Attribute.showTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.singleChoiceItemLayout = global::TestApp.Resource.Attribute.singleChoiceItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.spinBars = global::TestApp.Resource.Attribute.spinBars;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.spinnerDropDownItemStyle = global::TestApp.Resource.Attribute.spinnerDropDownItemStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.spinnerStyle = global::TestApp.Resource.Attribute.spinnerStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.splitTrack = global::TestApp.Resource.Attribute.splitTrack;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.srcCompat = global::TestApp.Resource.Attribute.srcCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.state_above_anchor = global::TestApp.Resource.Attribute.state_above_anchor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.subMenuArrow = global::TestApp.Resource.Attribute.subMenuArrow;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.submitBackground = global::TestApp.Resource.Attribute.submitBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.subtitle = global::TestApp.Resource.Attribute.subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.subtitleTextAppearance = global::TestApp.Resource.Attribute.subtitleTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.subtitleTextColor = global::TestApp.Resource.Attribute.subtitleTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.subtitleTextStyle = global::TestApp.Resource.Attribute.subtitleTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.suggestionRowLayout = global::TestApp.Resource.Attribute.suggestionRowLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.switchMinWidth = global::TestApp.Resource.Attribute.switchMinWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.switchPadding = global::TestApp.Resource.Attribute.switchPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.switchStyle = global::TestApp.Resource.Attribute.switchStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.switchTextAppearance = global::TestApp.Resource.Attribute.switchTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAllCaps = global::TestApp.Resource.Attribute.textAllCaps;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearanceLargePopupMenu = global::TestApp.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearanceListItem = global::TestApp.Resource.Attribute.textAppearanceListItem;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearanceListItemSecondary = global::TestApp.Resource.Attribute.textAppearanceListItemSecondary;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearanceListItemSmall = global::TestApp.Resource.Attribute.textAppearanceListItemSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearancePopupMenuHeader = global::TestApp.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearanceSearchResultSubtitle = global::TestApp.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearanceSearchResultTitle = global::TestApp.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textAppearanceSmallPopupMenu = global::TestApp.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textColorAlertDialogListItem = global::TestApp.Resource.Attribute.textColorAlertDialogListItem;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textColorSearchUrl = global::TestApp.Resource.Attribute.textColorSearchUrl;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.textLocale = global::TestApp.Resource.Attribute.textLocale;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.theme = global::TestApp.Resource.Attribute.theme;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.thickness = global::TestApp.Resource.Attribute.thickness;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.thumbTextPadding = global::TestApp.Resource.Attribute.thumbTextPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.thumbTint = global::TestApp.Resource.Attribute.thumbTint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.thumbTintMode = global::TestApp.Resource.Attribute.thumbTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tickMark = global::TestApp.Resource.Attribute.tickMark;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tickMarkTint = global::TestApp.Resource.Attribute.tickMarkTint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tickMarkTintMode = global::TestApp.Resource.Attribute.tickMarkTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tint = global::TestApp.Resource.Attribute.tint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tintMode = global::TestApp.Resource.Attribute.tintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.title = global::TestApp.Resource.Attribute.title;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleMargin = global::TestApp.Resource.Attribute.titleMargin;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleMarginBottom = global::TestApp.Resource.Attribute.titleMarginBottom;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleMarginEnd = global::TestApp.Resource.Attribute.titleMarginEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleMargins = global::TestApp.Resource.Attribute.titleMargins;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleMarginStart = global::TestApp.Resource.Attribute.titleMarginStart;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleMarginTop = global::TestApp.Resource.Attribute.titleMarginTop;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleTextAppearance = global::TestApp.Resource.Attribute.titleTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleTextColor = global::TestApp.Resource.Attribute.titleTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.titleTextStyle = global::TestApp.Resource.Attribute.titleTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.toolbarNavigationButtonStyle = global::TestApp.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.toolbarStyle = global::TestApp.Resource.Attribute.toolbarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tooltipForegroundColor = global::TestApp.Resource.Attribute.tooltipForegroundColor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tooltipFrameBackground = global::TestApp.Resource.Attribute.tooltipFrameBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.tooltipText = global::TestApp.Resource.Attribute.tooltipText;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.track = global::TestApp.Resource.Attribute.track;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.trackTint = global::TestApp.Resource.Attribute.trackTint;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.trackTintMode = global::TestApp.Resource.Attribute.trackTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.ttcIndex = global::TestApp.Resource.Attribute.ttcIndex;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.viewInflaterClass = global::TestApp.Resource.Attribute.viewInflaterClass;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.voiceIcon = global::TestApp.Resource.Attribute.voiceIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowActionBar = global::TestApp.Resource.Attribute.windowActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowActionBarOverlay = global::TestApp.Resource.Attribute.windowActionBarOverlay;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowActionModeOverlay = global::TestApp.Resource.Attribute.windowActionModeOverlay;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowFixedHeightMajor = global::TestApp.Resource.Attribute.windowFixedHeightMajor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowFixedHeightMinor = global::TestApp.Resource.Attribute.windowFixedHeightMinor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowFixedWidthMajor = global::TestApp.Resource.Attribute.windowFixedWidthMajor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowFixedWidthMinor = global::TestApp.Resource.Attribute.windowFixedWidthMinor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowMinWidthMajor = global::TestApp.Resource.Attribute.windowMinWidthMajor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowMinWidthMinor = global::TestApp.Resource.Attribute.windowMinWidthMinor;
+			global::AccountNumberPredictionLibrary2.Resource.Attribute.windowNoTitle = global::TestApp.Resource.Attribute.windowNoTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Boolean.abc_action_bar_embed_tabs = global::TestApp.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::AccountNumberPredictionLibrary2.Resource.Boolean.abc_allow_stacked_button_bar = global::TestApp.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::AccountNumberPredictionLibrary2.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::TestApp.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_background_cache_hint_selector_material_dark = global::TestApp.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_background_cache_hint_selector_material_light = global::TestApp.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_btn_colored_borderless_text_material = global::TestApp.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_btn_colored_text_material = global::TestApp.Resource.Color.abc_btn_colored_text_material;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_color_highlight_material = global::TestApp.Resource.Color.abc_color_highlight_material;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_decor_view_status_guard = global::TestApp.Resource.Color.abc_decor_view_status_guard;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_decor_view_status_guard_light = global::TestApp.Resource.Color.abc_decor_view_status_guard_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_hint_foreground_material_dark = global::TestApp.Resource.Color.abc_hint_foreground_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_hint_foreground_material_light = global::TestApp.Resource.Color.abc_hint_foreground_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_primary_text_disable_only_material_dark = global::TestApp.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_primary_text_disable_only_material_light = global::TestApp.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_primary_text_material_dark = global::TestApp.Resource.Color.abc_primary_text_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_primary_text_material_light = global::TestApp.Resource.Color.abc_primary_text_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_search_url_text = global::TestApp.Resource.Color.abc_search_url_text;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_search_url_text_normal = global::TestApp.Resource.Color.abc_search_url_text_normal;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_search_url_text_pressed = global::TestApp.Resource.Color.abc_search_url_text_pressed;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_search_url_text_selected = global::TestApp.Resource.Color.abc_search_url_text_selected;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_secondary_text_material_dark = global::TestApp.Resource.Color.abc_secondary_text_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_secondary_text_material_light = global::TestApp.Resource.Color.abc_secondary_text_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_tint_btn_checkable = global::TestApp.Resource.Color.abc_tint_btn_checkable;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_tint_default = global::TestApp.Resource.Color.abc_tint_default;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_tint_edittext = global::TestApp.Resource.Color.abc_tint_edittext;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_tint_seek_thumb = global::TestApp.Resource.Color.abc_tint_seek_thumb;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_tint_spinner = global::TestApp.Resource.Color.abc_tint_spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Color.abc_tint_switch_track = global::TestApp.Resource.Color.abc_tint_switch_track;
+			global::AccountNumberPredictionLibrary2.Resource.Color.accent_material_dark = global::TestApp.Resource.Color.accent_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.accent_material_light = global::TestApp.Resource.Color.accent_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.androidx_core_ripple_material_light = global::TestApp.Resource.Color.androidx_core_ripple_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.androidx_core_secondary_text_default_material_light = global::TestApp.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.background_floating_material_dark = global::TestApp.Resource.Color.background_floating_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.background_floating_material_light = global::TestApp.Resource.Color.background_floating_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.background_material_dark = global::TestApp.Resource.Color.background_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.background_material_light = global::TestApp.Resource.Color.background_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.bright_foreground_disabled_material_dark = global::TestApp.Resource.Color.bright_foreground_disabled_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.bright_foreground_disabled_material_light = global::TestApp.Resource.Color.bright_foreground_disabled_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.bright_foreground_inverse_material_dark = global::TestApp.Resource.Color.bright_foreground_inverse_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.bright_foreground_inverse_material_light = global::TestApp.Resource.Color.bright_foreground_inverse_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.bright_foreground_material_dark = global::TestApp.Resource.Color.bright_foreground_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.bright_foreground_material_light = global::TestApp.Resource.Color.bright_foreground_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.button_material_dark = global::TestApp.Resource.Color.button_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.button_material_light = global::TestApp.Resource.Color.button_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.dim_foreground_disabled_material_dark = global::TestApp.Resource.Color.dim_foreground_disabled_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.dim_foreground_disabled_material_light = global::TestApp.Resource.Color.dim_foreground_disabled_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.dim_foreground_material_dark = global::TestApp.Resource.Color.dim_foreground_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.dim_foreground_material_light = global::TestApp.Resource.Color.dim_foreground_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.error_color_material_dark = global::TestApp.Resource.Color.error_color_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.error_color_material_light = global::TestApp.Resource.Color.error_color_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.foreground_material_dark = global::TestApp.Resource.Color.foreground_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.foreground_material_light = global::TestApp.Resource.Color.foreground_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.highlighted_text_material_dark = global::TestApp.Resource.Color.highlighted_text_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.highlighted_text_material_light = global::TestApp.Resource.Color.highlighted_text_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_blue_grey_800 = global::TestApp.Resource.Color.material_blue_grey_800;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_blue_grey_900 = global::TestApp.Resource.Color.material_blue_grey_900;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_blue_grey_950 = global::TestApp.Resource.Color.material_blue_grey_950;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_deep_teal_200 = global::TestApp.Resource.Color.material_deep_teal_200;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_deep_teal_500 = global::TestApp.Resource.Color.material_deep_teal_500;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_grey_100 = global::TestApp.Resource.Color.material_grey_100;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_grey_300 = global::TestApp.Resource.Color.material_grey_300;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_grey_50 = global::TestApp.Resource.Color.material_grey_50;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_grey_600 = global::TestApp.Resource.Color.material_grey_600;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_grey_800 = global::TestApp.Resource.Color.material_grey_800;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_grey_850 = global::TestApp.Resource.Color.material_grey_850;
+			global::AccountNumberPredictionLibrary2.Resource.Color.material_grey_900 = global::TestApp.Resource.Color.material_grey_900;
+			global::AccountNumberPredictionLibrary2.Resource.Color.notification_action_color_filter = global::TestApp.Resource.Color.notification_action_color_filter;
+			global::AccountNumberPredictionLibrary2.Resource.Color.notification_icon_bg_color = global::TestApp.Resource.Color.notification_icon_bg_color;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_dark_material_dark = global::TestApp.Resource.Color.primary_dark_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_dark_material_light = global::TestApp.Resource.Color.primary_dark_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_material_dark = global::TestApp.Resource.Color.primary_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_material_light = global::TestApp.Resource.Color.primary_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_text_default_material_dark = global::TestApp.Resource.Color.primary_text_default_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_text_default_material_light = global::TestApp.Resource.Color.primary_text_default_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_text_disabled_material_dark = global::TestApp.Resource.Color.primary_text_disabled_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.primary_text_disabled_material_light = global::TestApp.Resource.Color.primary_text_disabled_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.ripple_material_dark = global::TestApp.Resource.Color.ripple_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.ripple_material_light = global::TestApp.Resource.Color.ripple_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.secondary_text_default_material_dark = global::TestApp.Resource.Color.secondary_text_default_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.secondary_text_default_material_light = global::TestApp.Resource.Color.secondary_text_default_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.secondary_text_disabled_material_dark = global::TestApp.Resource.Color.secondary_text_disabled_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.secondary_text_disabled_material_light = global::TestApp.Resource.Color.secondary_text_disabled_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.switch_thumb_disabled_material_dark = global::TestApp.Resource.Color.switch_thumb_disabled_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.switch_thumb_disabled_material_light = global::TestApp.Resource.Color.switch_thumb_disabled_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.switch_thumb_material_dark = global::TestApp.Resource.Color.switch_thumb_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.switch_thumb_material_light = global::TestApp.Resource.Color.switch_thumb_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.switch_thumb_normal_material_dark = global::TestApp.Resource.Color.switch_thumb_normal_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.switch_thumb_normal_material_light = global::TestApp.Resource.Color.switch_thumb_normal_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Color.tooltip_background_dark = global::TestApp.Resource.Color.tooltip_background_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Color.tooltip_background_light = global::TestApp.Resource.Color.tooltip_background_light;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_content_inset_material = global::TestApp.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::TestApp.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_default_height_material = global::TestApp.Resource.Dimension.abc_action_bar_default_height_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_default_padding_end_material = global::TestApp.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_default_padding_start_material = global::TestApp.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_elevation_material = global::TestApp.Resource.Dimension.abc_action_bar_elevation_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::TestApp.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::TestApp.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::TestApp.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_stacked_max_height = global::TestApp.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::TestApp.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::TestApp.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::TestApp.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_button_min_height_material = global::TestApp.Resource.Dimension.abc_action_button_min_height_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_button_min_width_material = global::TestApp.Resource.Dimension.abc_action_button_min_width_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_action_button_min_width_overflow_material = global::TestApp.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_alert_dialog_button_bar_height = global::TestApp.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_alert_dialog_button_dimen = global::TestApp.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_button_inset_horizontal_material = global::TestApp.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_button_inset_vertical_material = global::TestApp.Resource.Dimension.abc_button_inset_vertical_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_button_padding_horizontal_material = global::TestApp.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_button_padding_vertical_material = global::TestApp.Resource.Dimension.abc_button_padding_vertical_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::TestApp.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_config_prefDialogWidth = global::TestApp.Resource.Dimension.abc_config_prefDialogWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_control_corner_material = global::TestApp.Resource.Dimension.abc_control_corner_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_control_inset_material = global::TestApp.Resource.Dimension.abc_control_inset_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_control_padding_material = global::TestApp.Resource.Dimension.abc_control_padding_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_corner_radius_material = global::TestApp.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_fixed_height_major = global::TestApp.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_fixed_height_minor = global::TestApp.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_fixed_width_major = global::TestApp.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_fixed_width_minor = global::TestApp.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::TestApp.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::TestApp.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_min_width_major = global::TestApp.Resource.Dimension.abc_dialog_min_width_major;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_min_width_minor = global::TestApp.Resource.Dimension.abc_dialog_min_width_minor;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_padding_material = global::TestApp.Resource.Dimension.abc_dialog_padding_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_padding_top_material = global::TestApp.Resource.Dimension.abc_dialog_padding_top_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dialog_title_divider_material = global::TestApp.Resource.Dimension.abc_dialog_title_divider_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_disabled_alpha_material_dark = global::TestApp.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_disabled_alpha_material_light = global::TestApp.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dropdownitem_icon_width = global::TestApp.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dropdownitem_text_padding_left = global::TestApp.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_dropdownitem_text_padding_right = global::TestApp.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_edit_text_inset_bottom_material = global::TestApp.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::TestApp.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_edit_text_inset_top_material = global::TestApp.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_floating_window_z = global::TestApp.Resource.Dimension.abc_floating_window_z;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_list_item_height_large_material = global::TestApp.Resource.Dimension.abc_list_item_height_large_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_list_item_height_material = global::TestApp.Resource.Dimension.abc_list_item_height_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_list_item_height_small_material = global::TestApp.Resource.Dimension.abc_list_item_height_small_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_list_item_padding_horizontal_material = global::TestApp.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_panel_menu_list_width = global::TestApp.Resource.Dimension.abc_panel_menu_list_width;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_progress_bar_height_material = global::TestApp.Resource.Dimension.abc_progress_bar_height_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_search_view_preferred_height = global::TestApp.Resource.Dimension.abc_search_view_preferred_height;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_search_view_preferred_width = global::TestApp.Resource.Dimension.abc_search_view_preferred_width;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_seekbar_track_background_height_material = global::TestApp.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_seekbar_track_progress_height_material = global::TestApp.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_select_dialog_padding_start_material = global::TestApp.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_switch_padding = global::TestApp.Resource.Dimension.abc_switch_padding;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_body_1_material = global::TestApp.Resource.Dimension.abc_text_size_body_1_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_body_2_material = global::TestApp.Resource.Dimension.abc_text_size_body_2_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_button_material = global::TestApp.Resource.Dimension.abc_text_size_button_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_caption_material = global::TestApp.Resource.Dimension.abc_text_size_caption_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_display_1_material = global::TestApp.Resource.Dimension.abc_text_size_display_1_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_display_2_material = global::TestApp.Resource.Dimension.abc_text_size_display_2_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_display_3_material = global::TestApp.Resource.Dimension.abc_text_size_display_3_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_display_4_material = global::TestApp.Resource.Dimension.abc_text_size_display_4_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_headline_material = global::TestApp.Resource.Dimension.abc_text_size_headline_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_large_material = global::TestApp.Resource.Dimension.abc_text_size_large_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_medium_material = global::TestApp.Resource.Dimension.abc_text_size_medium_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_menu_header_material = global::TestApp.Resource.Dimension.abc_text_size_menu_header_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_menu_material = global::TestApp.Resource.Dimension.abc_text_size_menu_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_small_material = global::TestApp.Resource.Dimension.abc_text_size_small_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_subhead_material = global::TestApp.Resource.Dimension.abc_text_size_subhead_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::TestApp.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_title_material = global::TestApp.Resource.Dimension.abc_text_size_title_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.abc_text_size_title_material_toolbar = global::TestApp.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.compat_button_inset_horizontal_material = global::TestApp.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.compat_button_inset_vertical_material = global::TestApp.Resource.Dimension.compat_button_inset_vertical_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.compat_button_padding_horizontal_material = global::TestApp.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.compat_button_padding_vertical_material = global::TestApp.Resource.Dimension.compat_button_padding_vertical_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.compat_control_corner_material = global::TestApp.Resource.Dimension.compat_control_corner_material;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.compat_notification_large_icon_max_height = global::TestApp.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.compat_notification_large_icon_max_width = global::TestApp.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.def_drawer_elevation = global::TestApp.Resource.Dimension.def_drawer_elevation;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.disabled_alpha_material_dark = global::TestApp.Resource.Dimension.disabled_alpha_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.disabled_alpha_material_light = global::TestApp.Resource.Dimension.disabled_alpha_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.highlight_alpha_material_colored = global::TestApp.Resource.Dimension.highlight_alpha_material_colored;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.highlight_alpha_material_dark = global::TestApp.Resource.Dimension.highlight_alpha_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.highlight_alpha_material_light = global::TestApp.Resource.Dimension.highlight_alpha_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.hint_alpha_material_dark = global::TestApp.Resource.Dimension.hint_alpha_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.hint_alpha_material_light = global::TestApp.Resource.Dimension.hint_alpha_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.hint_pressed_alpha_material_dark = global::TestApp.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.hint_pressed_alpha_material_light = global::TestApp.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_action_icon_size = global::TestApp.Resource.Dimension.notification_action_icon_size;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_action_text_size = global::TestApp.Resource.Dimension.notification_action_text_size;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_big_circle_margin = global::TestApp.Resource.Dimension.notification_big_circle_margin;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_content_margin_start = global::TestApp.Resource.Dimension.notification_content_margin_start;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_large_icon_height = global::TestApp.Resource.Dimension.notification_large_icon_height;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_large_icon_width = global::TestApp.Resource.Dimension.notification_large_icon_width;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_main_column_padding_top = global::TestApp.Resource.Dimension.notification_main_column_padding_top;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_media_narrow_margin = global::TestApp.Resource.Dimension.notification_media_narrow_margin;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_right_icon_size = global::TestApp.Resource.Dimension.notification_right_icon_size;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_right_side_padding_top = global::TestApp.Resource.Dimension.notification_right_side_padding_top;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_small_icon_background_padding = global::TestApp.Resource.Dimension.notification_small_icon_background_padding;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_small_icon_size_as_large = global::TestApp.Resource.Dimension.notification_small_icon_size_as_large;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_subtext_size = global::TestApp.Resource.Dimension.notification_subtext_size;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_top_pad = global::TestApp.Resource.Dimension.notification_top_pad;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.notification_top_pad_large_text = global::TestApp.Resource.Dimension.notification_top_pad_large_text;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_corner_radius = global::TestApp.Resource.Dimension.tooltip_corner_radius;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_horizontal_padding = global::TestApp.Resource.Dimension.tooltip_horizontal_padding;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_margin = global::TestApp.Resource.Dimension.tooltip_margin;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::TestApp.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_precise_anchor_threshold = global::TestApp.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_vertical_padding = global::TestApp.Resource.Dimension.tooltip_vertical_padding;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_y_offset_non_touch = global::TestApp.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::AccountNumberPredictionLibrary2.Resource.Dimension.tooltip_y_offset_touch = global::TestApp.Resource.Dimension.tooltip_y_offset_touch;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::TestApp.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_action_bar_item_background_material = global::TestApp.Resource.Drawable.abc_action_bar_item_background_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_borderless_material = global::TestApp.Resource.Drawable.abc_btn_borderless_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_check_material = global::TestApp.Resource.Drawable.abc_btn_check_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_check_material_anim = global::TestApp.Resource.Drawable.abc_btn_check_material_anim;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::TestApp.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::TestApp.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_colored_material = global::TestApp.Resource.Drawable.abc_btn_colored_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_default_mtrl_shape = global::TestApp.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_radio_material = global::TestApp.Resource.Drawable.abc_btn_radio_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_radio_material_anim = global::TestApp.Resource.Drawable.abc_btn_radio_material_anim;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::TestApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::TestApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::TestApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::TestApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_cab_background_internal_bg = global::TestApp.Resource.Drawable.abc_cab_background_internal_bg;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_cab_background_top_material = global::TestApp.Resource.Drawable.abc_cab_background_top_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::TestApp.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_control_background_material = global::TestApp.Resource.Drawable.abc_control_background_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_dialog_material_background = global::TestApp.Resource.Drawable.abc_dialog_material_background;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_edit_text_material = global::TestApp.Resource.Drawable.abc_edit_text_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_ab_back_material = global::TestApp.Resource.Drawable.abc_ic_ab_back_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::TestApp.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_clear_material = global::TestApp.Resource.Drawable.abc_ic_clear_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::TestApp.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_go_search_api_material = global::TestApp.Resource.Drawable.abc_ic_go_search_api_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::TestApp.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::TestApp.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_menu_overflow_material = global::TestApp.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::TestApp.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::TestApp.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::TestApp.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_search_api_material = global::TestApp.Resource.Drawable.abc_ic_search_api_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_star_black_16dp = global::TestApp.Resource.Drawable.abc_ic_star_black_16dp;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_star_black_36dp = global::TestApp.Resource.Drawable.abc_ic_star_black_36dp;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_star_black_48dp = global::TestApp.Resource.Drawable.abc_ic_star_black_48dp;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_star_half_black_16dp = global::TestApp.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_star_half_black_36dp = global::TestApp.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_star_half_black_48dp = global::TestApp.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ic_voice_search_api_material = global::TestApp.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_item_background_holo_dark = global::TestApp.Resource.Drawable.abc_item_background_holo_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_item_background_holo_light = global::TestApp.Resource.Drawable.abc_item_background_holo_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_divider_material = global::TestApp.Resource.Drawable.abc_list_divider_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_divider_mtrl_alpha = global::TestApp.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_focused_holo = global::TestApp.Resource.Drawable.abc_list_focused_holo;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_longpressed_holo = global::TestApp.Resource.Drawable.abc_list_longpressed_holo;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_pressed_holo_dark = global::TestApp.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_pressed_holo_light = global::TestApp.Resource.Drawable.abc_list_pressed_holo_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::TestApp.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::TestApp.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::TestApp.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_selector_disabled_holo_light = global::TestApp.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_selector_holo_dark = global::TestApp.Resource.Drawable.abc_list_selector_holo_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_list_selector_holo_light = global::TestApp.Resource.Drawable.abc_list_selector_holo_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::TestApp.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_popup_background_mtrl_mult = global::TestApp.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ratingbar_indicator_material = global::TestApp.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ratingbar_material = global::TestApp.Resource.Drawable.abc_ratingbar_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_ratingbar_small_material = global::TestApp.Resource.Drawable.abc_ratingbar_small_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::TestApp.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::TestApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::TestApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::TestApp.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::TestApp.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_seekbar_thumb_material = global::TestApp.Resource.Drawable.abc_seekbar_thumb_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_seekbar_tick_mark_material = global::TestApp.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_seekbar_track_material = global::TestApp.Resource.Drawable.abc_seekbar_track_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::TestApp.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_spinner_textfield_background_material = global::TestApp.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_switch_thumb_material = global::TestApp.Resource.Drawable.abc_switch_thumb_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_switch_track_mtrl_alpha = global::TestApp.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_tab_indicator_material = global::TestApp.Resource.Drawable.abc_tab_indicator_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::TestApp.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::TestApp.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::TestApp.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::TestApp.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::TestApp.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_textfield_search_material = global::TestApp.Resource.Drawable.abc_textfield_search_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_text_cursor_material = global::TestApp.Resource.Drawable.abc_text_cursor_material;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::TestApp.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::TestApp.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::TestApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::TestApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::TestApp.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::TestApp.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.abc_vector_test = global::TestApp.Resource.Drawable.abc_vector_test;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_checkbox_checked_mtrl = global::TestApp.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::TestApp.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::TestApp.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::TestApp.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_radio_off_mtrl = global::TestApp.Resource.Drawable.btn_radio_off_mtrl;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::TestApp.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_radio_on_mtrl = global::TestApp.Resource.Drawable.btn_radio_on_mtrl;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::TestApp.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_action_background = global::TestApp.Resource.Drawable.notification_action_background;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_bg = global::TestApp.Resource.Drawable.notification_bg;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_bg_low = global::TestApp.Resource.Drawable.notification_bg_low;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_bg_low_normal = global::TestApp.Resource.Drawable.notification_bg_low_normal;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_bg_low_pressed = global::TestApp.Resource.Drawable.notification_bg_low_pressed;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_bg_normal = global::TestApp.Resource.Drawable.notification_bg_normal;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_bg_normal_pressed = global::TestApp.Resource.Drawable.notification_bg_normal_pressed;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_icon_background = global::TestApp.Resource.Drawable.notification_icon_background;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_template_icon_bg = global::TestApp.Resource.Drawable.notification_template_icon_bg;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_template_icon_low_bg = global::TestApp.Resource.Drawable.notification_template_icon_low_bg;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notification_tile_bg = global::TestApp.Resource.Drawable.notification_tile_bg;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.notify_panel_notification_icon_bg = global::TestApp.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.tooltip_frame_dark = global::TestApp.Resource.Drawable.tooltip_frame_dark;
+			global::AccountNumberPredictionLibrary2.Resource.Drawable.tooltip_frame_light = global::TestApp.Resource.Drawable.tooltip_frame_light;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_action_clickable_span = global::TestApp.Resource.Id.accessibility_action_clickable_span;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_0 = global::TestApp.Resource.Id.accessibility_custom_action_0;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_1 = global::TestApp.Resource.Id.accessibility_custom_action_1;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_10 = global::TestApp.Resource.Id.accessibility_custom_action_10;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_11 = global::TestApp.Resource.Id.accessibility_custom_action_11;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_12 = global::TestApp.Resource.Id.accessibility_custom_action_12;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_13 = global::TestApp.Resource.Id.accessibility_custom_action_13;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_14 = global::TestApp.Resource.Id.accessibility_custom_action_14;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_15 = global::TestApp.Resource.Id.accessibility_custom_action_15;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_16 = global::TestApp.Resource.Id.accessibility_custom_action_16;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_17 = global::TestApp.Resource.Id.accessibility_custom_action_17;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_18 = global::TestApp.Resource.Id.accessibility_custom_action_18;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_19 = global::TestApp.Resource.Id.accessibility_custom_action_19;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_2 = global::TestApp.Resource.Id.accessibility_custom_action_2;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_20 = global::TestApp.Resource.Id.accessibility_custom_action_20;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_21 = global::TestApp.Resource.Id.accessibility_custom_action_21;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_22 = global::TestApp.Resource.Id.accessibility_custom_action_22;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_23 = global::TestApp.Resource.Id.accessibility_custom_action_23;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_24 = global::TestApp.Resource.Id.accessibility_custom_action_24;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_25 = global::TestApp.Resource.Id.accessibility_custom_action_25;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_26 = global::TestApp.Resource.Id.accessibility_custom_action_26;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_27 = global::TestApp.Resource.Id.accessibility_custom_action_27;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_28 = global::TestApp.Resource.Id.accessibility_custom_action_28;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_29 = global::TestApp.Resource.Id.accessibility_custom_action_29;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_3 = global::TestApp.Resource.Id.accessibility_custom_action_3;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_30 = global::TestApp.Resource.Id.accessibility_custom_action_30;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_31 = global::TestApp.Resource.Id.accessibility_custom_action_31;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_4 = global::TestApp.Resource.Id.accessibility_custom_action_4;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_5 = global::TestApp.Resource.Id.accessibility_custom_action_5;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_6 = global::TestApp.Resource.Id.accessibility_custom_action_6;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_7 = global::TestApp.Resource.Id.accessibility_custom_action_7;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_8 = global::TestApp.Resource.Id.accessibility_custom_action_8;
+			global::AccountNumberPredictionLibrary2.Resource.Id.accessibility_custom_action_9 = global::TestApp.Resource.Id.accessibility_custom_action_9;
+			global::AccountNumberPredictionLibrary2.Resource.Id.actions = global::TestApp.Resource.Id.actions;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_bar = global::TestApp.Resource.Id.action_bar;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_bar_activity_content = global::TestApp.Resource.Id.action_bar_activity_content;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_bar_container = global::TestApp.Resource.Id.action_bar_container;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_bar_root = global::TestApp.Resource.Id.action_bar_root;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_bar_spinner = global::TestApp.Resource.Id.action_bar_spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_bar_subtitle = global::TestApp.Resource.Id.action_bar_subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_bar_title = global::TestApp.Resource.Id.action_bar_title;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_container = global::TestApp.Resource.Id.action_container;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_context_bar = global::TestApp.Resource.Id.action_context_bar;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_divider = global::TestApp.Resource.Id.action_divider;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_image = global::TestApp.Resource.Id.action_image;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_menu_divider = global::TestApp.Resource.Id.action_menu_divider;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_menu_presenter = global::TestApp.Resource.Id.action_menu_presenter;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_mode_bar = global::TestApp.Resource.Id.action_mode_bar;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_mode_bar_stub = global::TestApp.Resource.Id.action_mode_bar_stub;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_mode_close_button = global::TestApp.Resource.Id.action_mode_close_button;
+			global::AccountNumberPredictionLibrary2.Resource.Id.action_text = global::TestApp.Resource.Id.action_text;
+			global::AccountNumberPredictionLibrary2.Resource.Id.activity_chooser_view_content = global::TestApp.Resource.Id.activity_chooser_view_content;
+			global::AccountNumberPredictionLibrary2.Resource.Id.add = global::TestApp.Resource.Id.add;
+			global::AccountNumberPredictionLibrary2.Resource.Id.alertTitle = global::TestApp.Resource.Id.alertTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Id.ALT = global::TestApp.Resource.Id.ALT;
+			global::AccountNumberPredictionLibrary2.Resource.Id.always = global::TestApp.Resource.Id.always;
+			global::AccountNumberPredictionLibrary2.Resource.Id.async = global::TestApp.Resource.Id.async;
+			global::AccountNumberPredictionLibrary2.Resource.Id.beginning = global::TestApp.Resource.Id.beginning;
+			global::AccountNumberPredictionLibrary2.Resource.Id.blocking = global::TestApp.Resource.Id.blocking;
+			global::AccountNumberPredictionLibrary2.Resource.Id.bottom = global::TestApp.Resource.Id.bottom;
+			global::AccountNumberPredictionLibrary2.Resource.Id.buttonPanel = global::TestApp.Resource.Id.buttonPanel;
+			global::AccountNumberPredictionLibrary2.Resource.Id.center_vertical = global::TestApp.Resource.Id.center_vertical;
+			global::AccountNumberPredictionLibrary2.Resource.Id.checkbox = global::TestApp.Resource.Id.checkbox;
+			global::AccountNumberPredictionLibrary2.Resource.Id.@checked = global::TestApp.Resource.Id.@checked;
+			global::AccountNumberPredictionLibrary2.Resource.Id.chronometer = global::TestApp.Resource.Id.chronometer;
+			global::AccountNumberPredictionLibrary2.Resource.Id.collapseActionView = global::TestApp.Resource.Id.collapseActionView;
+			global::AccountNumberPredictionLibrary2.Resource.Id.content = global::TestApp.Resource.Id.content;
+			global::AccountNumberPredictionLibrary2.Resource.Id.contentPanel = global::TestApp.Resource.Id.contentPanel;
+			global::AccountNumberPredictionLibrary2.Resource.Id.CTRL = global::TestApp.Resource.Id.CTRL;
+			global::AccountNumberPredictionLibrary2.Resource.Id.custom = global::TestApp.Resource.Id.custom;
+			global::AccountNumberPredictionLibrary2.Resource.Id.customPanel = global::TestApp.Resource.Id.customPanel;
+			global::AccountNumberPredictionLibrary2.Resource.Id.decor_content_parent = global::TestApp.Resource.Id.decor_content_parent;
+			global::AccountNumberPredictionLibrary2.Resource.Id.default_activity_button = global::TestApp.Resource.Id.default_activity_button;
+			global::AccountNumberPredictionLibrary2.Resource.Id.dialog_button = global::TestApp.Resource.Id.dialog_button;
+			global::AccountNumberPredictionLibrary2.Resource.Id.disableHome = global::TestApp.Resource.Id.disableHome;
+			global::AccountNumberPredictionLibrary2.Resource.Id.edit_query = global::TestApp.Resource.Id.edit_query;
+			global::AccountNumberPredictionLibrary2.Resource.Id.end = global::TestApp.Resource.Id.end;
+			global::AccountNumberPredictionLibrary2.Resource.Id.expanded_menu = global::TestApp.Resource.Id.expanded_menu;
+			global::AccountNumberPredictionLibrary2.Resource.Id.expand_activities_button = global::TestApp.Resource.Id.expand_activities_button;
+			global::AccountNumberPredictionLibrary2.Resource.Id.forever = global::TestApp.Resource.Id.forever;
+			global::AccountNumberPredictionLibrary2.Resource.Id.fragment_container_view_tag = global::TestApp.Resource.Id.fragment_container_view_tag;
+			global::AccountNumberPredictionLibrary2.Resource.Id.FUNCTION = global::TestApp.Resource.Id.FUNCTION;
+			global::AccountNumberPredictionLibrary2.Resource.Id.group_divider = global::TestApp.Resource.Id.group_divider;
+			global::AccountNumberPredictionLibrary2.Resource.Id.home = global::TestApp.Resource.Id.home;
+			global::AccountNumberPredictionLibrary2.Resource.Id.homeAsUp = global::TestApp.Resource.Id.homeAsUp;
+			global::AccountNumberPredictionLibrary2.Resource.Id.icon = global::TestApp.Resource.Id.icon;
+			global::AccountNumberPredictionLibrary2.Resource.Id.icon_group = global::TestApp.Resource.Id.icon_group;
+			global::AccountNumberPredictionLibrary2.Resource.Id.ifRoom = global::TestApp.Resource.Id.ifRoom;
+			global::AccountNumberPredictionLibrary2.Resource.Id.image = global::TestApp.Resource.Id.image;
+			global::AccountNumberPredictionLibrary2.Resource.Id.info = global::TestApp.Resource.Id.info;
+			global::AccountNumberPredictionLibrary2.Resource.Id.italic = global::TestApp.Resource.Id.italic;
+			global::AccountNumberPredictionLibrary2.Resource.Id.line1 = global::TestApp.Resource.Id.line1;
+			global::AccountNumberPredictionLibrary2.Resource.Id.line3 = global::TestApp.Resource.Id.line3;
+			global::AccountNumberPredictionLibrary2.Resource.Id.listMode = global::TestApp.Resource.Id.listMode;
+			global::AccountNumberPredictionLibrary2.Resource.Id.list_item = global::TestApp.Resource.Id.list_item;
+			global::AccountNumberPredictionLibrary2.Resource.Id.message = global::TestApp.Resource.Id.message;
+			global::AccountNumberPredictionLibrary2.Resource.Id.META = global::TestApp.Resource.Id.META;
+			global::AccountNumberPredictionLibrary2.Resource.Id.middle = global::TestApp.Resource.Id.middle;
+			global::AccountNumberPredictionLibrary2.Resource.Id.multiply = global::TestApp.Resource.Id.multiply;
+			global::AccountNumberPredictionLibrary2.Resource.Id.never = global::TestApp.Resource.Id.never;
+			global::AccountNumberPredictionLibrary2.Resource.Id.none = global::TestApp.Resource.Id.none;
+			global::AccountNumberPredictionLibrary2.Resource.Id.normal = global::TestApp.Resource.Id.normal;
+			global::AccountNumberPredictionLibrary2.Resource.Id.notification_background = global::TestApp.Resource.Id.notification_background;
+			global::AccountNumberPredictionLibrary2.Resource.Id.notification_main_column = global::TestApp.Resource.Id.notification_main_column;
+			global::AccountNumberPredictionLibrary2.Resource.Id.notification_main_column_container = global::TestApp.Resource.Id.notification_main_column_container;
+			global::AccountNumberPredictionLibrary2.Resource.Id.off = global::TestApp.Resource.Id.off;
+			global::AccountNumberPredictionLibrary2.Resource.Id.on = global::TestApp.Resource.Id.on;
+			global::AccountNumberPredictionLibrary2.Resource.Id.parentPanel = global::TestApp.Resource.Id.parentPanel;
+			global::AccountNumberPredictionLibrary2.Resource.Id.progress_circular = global::TestApp.Resource.Id.progress_circular;
+			global::AccountNumberPredictionLibrary2.Resource.Id.progress_horizontal = global::TestApp.Resource.Id.progress_horizontal;
+			global::AccountNumberPredictionLibrary2.Resource.Id.radio = global::TestApp.Resource.Id.radio;
+			global::AccountNumberPredictionLibrary2.Resource.Id.right_icon = global::TestApp.Resource.Id.right_icon;
+			global::AccountNumberPredictionLibrary2.Resource.Id.right_side = global::TestApp.Resource.Id.right_side;
+			global::AccountNumberPredictionLibrary2.Resource.Id.screen = global::TestApp.Resource.Id.screen;
+			global::AccountNumberPredictionLibrary2.Resource.Id.scrollIndicatorDown = global::TestApp.Resource.Id.scrollIndicatorDown;
+			global::AccountNumberPredictionLibrary2.Resource.Id.scrollIndicatorUp = global::TestApp.Resource.Id.scrollIndicatorUp;
+			global::AccountNumberPredictionLibrary2.Resource.Id.scrollView = global::TestApp.Resource.Id.scrollView;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_badge = global::TestApp.Resource.Id.search_badge;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_bar = global::TestApp.Resource.Id.search_bar;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_button = global::TestApp.Resource.Id.search_button;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_close_btn = global::TestApp.Resource.Id.search_close_btn;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_edit_frame = global::TestApp.Resource.Id.search_edit_frame;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_go_btn = global::TestApp.Resource.Id.search_go_btn;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_mag_icon = global::TestApp.Resource.Id.search_mag_icon;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_plate = global::TestApp.Resource.Id.search_plate;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_src_text = global::TestApp.Resource.Id.search_src_text;
+			global::AccountNumberPredictionLibrary2.Resource.Id.search_voice_btn = global::TestApp.Resource.Id.search_voice_btn;
+			global::AccountNumberPredictionLibrary2.Resource.Id.select_dialog_listview = global::TestApp.Resource.Id.select_dialog_listview;
+			global::AccountNumberPredictionLibrary2.Resource.Id.SHIFT = global::TestApp.Resource.Id.SHIFT;
+			global::AccountNumberPredictionLibrary2.Resource.Id.shortcut = global::TestApp.Resource.Id.shortcut;
+			global::AccountNumberPredictionLibrary2.Resource.Id.showCustom = global::TestApp.Resource.Id.showCustom;
+			global::AccountNumberPredictionLibrary2.Resource.Id.showHome = global::TestApp.Resource.Id.showHome;
+			global::AccountNumberPredictionLibrary2.Resource.Id.showTitle = global::TestApp.Resource.Id.showTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Id.spacer = global::TestApp.Resource.Id.spacer;
+			global::AccountNumberPredictionLibrary2.Resource.Id.split_action_bar = global::TestApp.Resource.Id.split_action_bar;
+			global::AccountNumberPredictionLibrary2.Resource.Id.src_atop = global::TestApp.Resource.Id.src_atop;
+			global::AccountNumberPredictionLibrary2.Resource.Id.src_in = global::TestApp.Resource.Id.src_in;
+			global::AccountNumberPredictionLibrary2.Resource.Id.src_over = global::TestApp.Resource.Id.src_over;
+			global::AccountNumberPredictionLibrary2.Resource.Id.submenuarrow = global::TestApp.Resource.Id.submenuarrow;
+			global::AccountNumberPredictionLibrary2.Resource.Id.submit_area = global::TestApp.Resource.Id.submit_area;
+			global::AccountNumberPredictionLibrary2.Resource.Id.SYM = global::TestApp.Resource.Id.SYM;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tabMode = global::TestApp.Resource.Id.tabMode;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_accessibility_actions = global::TestApp.Resource.Id.tag_accessibility_actions;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_accessibility_clickable_spans = global::TestApp.Resource.Id.tag_accessibility_clickable_spans;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_accessibility_heading = global::TestApp.Resource.Id.tag_accessibility_heading;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_accessibility_pane_title = global::TestApp.Resource.Id.tag_accessibility_pane_title;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_screen_reader_focusable = global::TestApp.Resource.Id.tag_screen_reader_focusable;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_transition_group = global::TestApp.Resource.Id.tag_transition_group;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_unhandled_key_event_manager = global::TestApp.Resource.Id.tag_unhandled_key_event_manager;
+			global::AccountNumberPredictionLibrary2.Resource.Id.tag_unhandled_key_listeners = global::TestApp.Resource.Id.tag_unhandled_key_listeners;
+			global::AccountNumberPredictionLibrary2.Resource.Id.text = global::TestApp.Resource.Id.text;
+			global::AccountNumberPredictionLibrary2.Resource.Id.text2 = global::TestApp.Resource.Id.text2;
+			global::AccountNumberPredictionLibrary2.Resource.Id.textSpacerNoButtons = global::TestApp.Resource.Id.textSpacerNoButtons;
+			global::AccountNumberPredictionLibrary2.Resource.Id.textSpacerNoTitle = global::TestApp.Resource.Id.textSpacerNoTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Id.time = global::TestApp.Resource.Id.time;
+			global::AccountNumberPredictionLibrary2.Resource.Id.title = global::TestApp.Resource.Id.title;
+			global::AccountNumberPredictionLibrary2.Resource.Id.titleDividerNoCustom = global::TestApp.Resource.Id.titleDividerNoCustom;
+			global::AccountNumberPredictionLibrary2.Resource.Id.title_template = global::TestApp.Resource.Id.title_template;
+			global::AccountNumberPredictionLibrary2.Resource.Id.top = global::TestApp.Resource.Id.top;
+			global::AccountNumberPredictionLibrary2.Resource.Id.topPanel = global::TestApp.Resource.Id.topPanel;
+			global::AccountNumberPredictionLibrary2.Resource.Id.@unchecked = global::TestApp.Resource.Id.@unchecked;
+			global::AccountNumberPredictionLibrary2.Resource.Id.uniform = global::TestApp.Resource.Id.uniform;
+			global::AccountNumberPredictionLibrary2.Resource.Id.up = global::TestApp.Resource.Id.up;
+			global::AccountNumberPredictionLibrary2.Resource.Id.useLogo = global::TestApp.Resource.Id.useLogo;
+			global::AccountNumberPredictionLibrary2.Resource.Id.view_tree_saved_state_registry_owner = global::TestApp.Resource.Id.view_tree_saved_state_registry_owner;
+			global::AccountNumberPredictionLibrary2.Resource.Id.visible_removing_fragment_view_tag = global::TestApp.Resource.Id.visible_removing_fragment_view_tag;
+			global::AccountNumberPredictionLibrary2.Resource.Id.withText = global::TestApp.Resource.Id.withText;
+			global::AccountNumberPredictionLibrary2.Resource.Id.wrap_content = global::TestApp.Resource.Id.wrap_content;
+			global::AccountNumberPredictionLibrary2.Resource.Integer.abc_config_activityDefaultDur = global::TestApp.Resource.Integer.abc_config_activityDefaultDur;
+			global::AccountNumberPredictionLibrary2.Resource.Integer.abc_config_activityShortDur = global::TestApp.Resource.Integer.abc_config_activityShortDur;
+			global::AccountNumberPredictionLibrary2.Resource.Integer.cancel_button_image_alpha = global::TestApp.Resource.Integer.cancel_button_image_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Integer.config_tooltipAnimTime = global::TestApp.Resource.Integer.config_tooltipAnimTime;
+			global::AccountNumberPredictionLibrary2.Resource.Integer.status_bar_notification_info_maxnum = global::TestApp.Resource.Integer.status_bar_notification_info_maxnum;
+			global::AccountNumberPredictionLibrary2.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::TestApp.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::AccountNumberPredictionLibrary2.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::TestApp.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::AccountNumberPredictionLibrary2.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::TestApp.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::AccountNumberPredictionLibrary2.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::TestApp.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::AccountNumberPredictionLibrary2.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::TestApp.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::AccountNumberPredictionLibrary2.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::TestApp.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::AccountNumberPredictionLibrary2.Resource.Interpolator.fast_out_slow_in = global::TestApp.Resource.Interpolator.fast_out_slow_in;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_action_bar_title_item = global::TestApp.Resource.Layout.abc_action_bar_title_item;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_action_bar_up_container = global::TestApp.Resource.Layout.abc_action_bar_up_container;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_action_menu_item_layout = global::TestApp.Resource.Layout.abc_action_menu_item_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_action_menu_layout = global::TestApp.Resource.Layout.abc_action_menu_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_action_mode_bar = global::TestApp.Resource.Layout.abc_action_mode_bar;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_action_mode_close_item_material = global::TestApp.Resource.Layout.abc_action_mode_close_item_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_activity_chooser_view = global::TestApp.Resource.Layout.abc_activity_chooser_view;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_activity_chooser_view_list_item = global::TestApp.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_alert_dialog_button_bar_material = global::TestApp.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_alert_dialog_material = global::TestApp.Resource.Layout.abc_alert_dialog_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_alert_dialog_title_material = global::TestApp.Resource.Layout.abc_alert_dialog_title_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_cascading_menu_item_layout = global::TestApp.Resource.Layout.abc_cascading_menu_item_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_dialog_title_material = global::TestApp.Resource.Layout.abc_dialog_title_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_expanded_menu_layout = global::TestApp.Resource.Layout.abc_expanded_menu_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_list_menu_item_checkbox = global::TestApp.Resource.Layout.abc_list_menu_item_checkbox;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_list_menu_item_icon = global::TestApp.Resource.Layout.abc_list_menu_item_icon;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_list_menu_item_layout = global::TestApp.Resource.Layout.abc_list_menu_item_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_list_menu_item_radio = global::TestApp.Resource.Layout.abc_list_menu_item_radio;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_popup_menu_header_item_layout = global::TestApp.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_popup_menu_item_layout = global::TestApp.Resource.Layout.abc_popup_menu_item_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_screen_content_include = global::TestApp.Resource.Layout.abc_screen_content_include;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_screen_simple = global::TestApp.Resource.Layout.abc_screen_simple;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_screen_simple_overlay_action_mode = global::TestApp.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_screen_toolbar = global::TestApp.Resource.Layout.abc_screen_toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_search_dropdown_item_icons_2line = global::TestApp.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_search_view = global::TestApp.Resource.Layout.abc_search_view;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_select_dialog_material = global::TestApp.Resource.Layout.abc_select_dialog_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.abc_tooltip = global::TestApp.Resource.Layout.abc_tooltip;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.custom_dialog = global::TestApp.Resource.Layout.custom_dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.notification_action = global::TestApp.Resource.Layout.notification_action;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.notification_action_tombstone = global::TestApp.Resource.Layout.notification_action_tombstone;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.notification_template_custom_big = global::TestApp.Resource.Layout.notification_template_custom_big;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.notification_template_icon_group = global::TestApp.Resource.Layout.notification_template_icon_group;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.notification_template_part_chronometer = global::TestApp.Resource.Layout.notification_template_part_chronometer;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.notification_template_part_time = global::TestApp.Resource.Layout.notification_template_part_time;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.select_dialog_item_material = global::TestApp.Resource.Layout.select_dialog_item_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.select_dialog_multichoice_material = global::TestApp.Resource.Layout.select_dialog_multichoice_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.select_dialog_singlechoice_material = global::TestApp.Resource.Layout.select_dialog_singlechoice_material;
+			global::AccountNumberPredictionLibrary2.Resource.Layout.support_simple_spinner_dropdown_item = global::TestApp.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_action_bar_home_description = global::TestApp.Resource.String.abc_action_bar_home_description;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_action_bar_up_description = global::TestApp.Resource.String.abc_action_bar_up_description;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_action_menu_overflow_description = global::TestApp.Resource.String.abc_action_menu_overflow_description;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_action_mode_done = global::TestApp.Resource.String.abc_action_mode_done;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_activitychooserview_choose_application = global::TestApp.Resource.String.abc_activitychooserview_choose_application;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_activity_chooser_view_see_all = global::TestApp.Resource.String.abc_activity_chooser_view_see_all;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_capital_off = global::TestApp.Resource.String.abc_capital_off;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_capital_on = global::TestApp.Resource.String.abc_capital_on;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_alt_shortcut_label = global::TestApp.Resource.String.abc_menu_alt_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_ctrl_shortcut_label = global::TestApp.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_delete_shortcut_label = global::TestApp.Resource.String.abc_menu_delete_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_enter_shortcut_label = global::TestApp.Resource.String.abc_menu_enter_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_function_shortcut_label = global::TestApp.Resource.String.abc_menu_function_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_meta_shortcut_label = global::TestApp.Resource.String.abc_menu_meta_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_shift_shortcut_label = global::TestApp.Resource.String.abc_menu_shift_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_space_shortcut_label = global::TestApp.Resource.String.abc_menu_space_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_menu_sym_shortcut_label = global::TestApp.Resource.String.abc_menu_sym_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_prepend_shortcut_label = global::TestApp.Resource.String.abc_prepend_shortcut_label;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_searchview_description_clear = global::TestApp.Resource.String.abc_searchview_description_clear;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_searchview_description_query = global::TestApp.Resource.String.abc_searchview_description_query;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_searchview_description_search = global::TestApp.Resource.String.abc_searchview_description_search;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_searchview_description_submit = global::TestApp.Resource.String.abc_searchview_description_submit;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_searchview_description_voice = global::TestApp.Resource.String.abc_searchview_description_voice;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_search_hint = global::TestApp.Resource.String.abc_search_hint;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_shareactionprovider_share_with = global::TestApp.Resource.String.abc_shareactionprovider_share_with;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_shareactionprovider_share_with_application = global::TestApp.Resource.String.abc_shareactionprovider_share_with_application;
+			global::AccountNumberPredictionLibrary2.Resource.String.abc_toolbar_collapse_description = global::TestApp.Resource.String.abc_toolbar_collapse_description;
+			global::AccountNumberPredictionLibrary2.Resource.String.app_name = global::TestApp.Resource.String.app_name;
+			global::AccountNumberPredictionLibrary2.Resource.String.hello = global::TestApp.Resource.String.hello;
+			global::AccountNumberPredictionLibrary2.Resource.String.search_menu_title = global::TestApp.Resource.String.search_menu_title;
+			global::AccountNumberPredictionLibrary2.Resource.String.status_bar_notification_info_overflow = global::TestApp.Resource.String.status_bar_notification_info_overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.AlertDialog_AppCompat = global::TestApp.Resource.Style.AlertDialog_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.AlertDialog_AppCompat_Light = global::TestApp.Resource.Style.AlertDialog_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Animation_AppCompat_Dialog = global::TestApp.Resource.Style.Animation_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Animation_AppCompat_DropDownUp = global::TestApp.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Animation_AppCompat_Tooltip = global::TestApp.Resource.Style.Animation_AppCompat_Tooltip;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_AlertDialog_AppCompat = global::TestApp.Resource.Style.Base_AlertDialog_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_AlertDialog_AppCompat_Light = global::TestApp.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Animation_AppCompat_Dialog = global::TestApp.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::TestApp.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Animation_AppCompat_Tooltip = global::TestApp.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::TestApp.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_DialogWindowTitle_AppCompat = global::TestApp.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Button = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Large = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Small = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Title = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TestApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TestApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TestApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::TestApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_ThemeOverlay_AppCompat = global::TestApp.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::TestApp.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::TestApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::TestApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::TestApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::TestApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::TestApp.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat = global::TestApp.Resource.Style.Base_Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::TestApp.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Dialog = global::TestApp.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::TestApp.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::TestApp.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::TestApp.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::TestApp.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Light = global::TestApp.Resource.Style.Base_Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::TestApp.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::TestApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::TestApp.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::TestApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::TestApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::TestApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::TestApp.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V21_Theme_AppCompat = global::TestApp.Resource.Style.Base_V21_Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::TestApp.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V21_Theme_AppCompat_Light = global::TestApp.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::TestApp.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V22_Theme_AppCompat = global::TestApp.Resource.Style.Base_V22_Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V22_Theme_AppCompat_Light = global::TestApp.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V23_Theme_AppCompat = global::TestApp.Resource.Style.Base_V23_Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V23_Theme_AppCompat_Light = global::TestApp.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V26_Theme_AppCompat = global::TestApp.Resource.Style.Base_V26_Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V26_Theme_AppCompat_Light = global::TestApp.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::TestApp.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V28_Theme_AppCompat = global::TestApp.Resource.Style.Base_V28_Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V28_Theme_AppCompat_Light = global::TestApp.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::TestApp.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_Theme_AppCompat = global::TestApp.Resource.Style.Base_V7_Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::TestApp.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_Theme_AppCompat_Light = global::TestApp.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::TestApp.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::TestApp.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::TestApp.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::TestApp.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionButton = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActionMode = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::TestApp.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::TestApp.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Button = global::TestApp.Resource.Style.Base_Widget_AppCompat_Button;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::TestApp.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::TestApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::TestApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TestApp.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::TestApp.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Button_Small = global::TestApp.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::TestApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::TestApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::TestApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::TestApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::TestApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::TestApp.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_EditText = global::TestApp.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ImageButton = global::TestApp.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::TestApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::TestApp.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::TestApp.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ListView = global::TestApp.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::TestApp.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::TestApp.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::TestApp.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::TestApp.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::TestApp.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::TestApp.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_RatingBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::TestApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::TestApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_SearchView = global::TestApp.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_SeekBar = global::TestApp.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::TestApp.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Spinner = global::TestApp.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::TestApp.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_TextView = global::TestApp.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::TestApp.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Toolbar = global::TestApp.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::TestApp.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_AppCompat = global::TestApp.Resource.Style.Platform_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_AppCompat_Light = global::TestApp.Resource.Style.Platform_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_ThemeOverlay_AppCompat = global::TestApp.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::TestApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::TestApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_V21_AppCompat = global::TestApp.Resource.Style.Platform_V21_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_V21_AppCompat_Light = global::TestApp.Resource.Style.Platform_V21_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_V25_AppCompat = global::TestApp.Resource.Style.Platform_V25_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_V25_AppCompat_Light = global::TestApp.Resource.Style.Platform_V25_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Platform_Widget_AppCompat_Spinner = global::TestApp.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::TestApp.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::TestApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::TestApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::TestApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat = global::TestApp.Resource.Style.TextAppearance_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Body1 = global::TestApp.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Body2 = global::TestApp.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Button = global::TestApp.Resource.Style.TextAppearance_AppCompat_Button;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Caption = global::TestApp.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Display1 = global::TestApp.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Display2 = global::TestApp.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Display3 = global::TestApp.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Display4 = global::TestApp.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Headline = global::TestApp.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Large = global::TestApp.Resource.Style.TextAppearance_AppCompat_Large;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::TestApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::TestApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TestApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TestApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Medium = global::TestApp.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Menu = global::TestApp.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::TestApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::TestApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Small = global::TestApp.Resource.Style.TextAppearance_AppCompat_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Subhead = global::TestApp.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Title = global::TestApp.Resource.Style.TextAppearance_AppCompat_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Tooltip = global::TestApp.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TestApp.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Compat_Notification = global::TestApp.Resource.Style.TextAppearance_Compat_Notification;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Compat_Notification_Info = global::TestApp.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::TestApp.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Compat_Notification_Time = global::TestApp.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Compat_Notification_Title = global::TestApp.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TestApp.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TestApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::TestApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat = global::TestApp.Resource.Style.ThemeOverlay_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_Dark = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::AccountNumberPredictionLibrary2.Resource.Style.ThemeOverlay_AppCompat_Light = global::TestApp.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat = global::TestApp.Resource.Style.Theme_AppCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_CompactMenu = global::TestApp.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DayNight = global::TestApp.Resource.Style.Theme_AppCompat_DayNight;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::TestApp.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::TestApp.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::TestApp.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::TestApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::TestApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::TestApp.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Dialog = global::TestApp.Resource.Style.Theme_AppCompat_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::TestApp.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Dialog_Alert = global::TestApp.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::TestApp.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Empty = global::TestApp.Resource.Style.Theme_AppCompat_Empty;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Light = global::TestApp.Resource.Style.Theme_AppCompat_Light;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::TestApp.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Light_Dialog = global::TestApp.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::TestApp.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::TestApp.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::TestApp.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::TestApp.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Theme_AppCompat_NoActionBar = global::TestApp.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionBar = global::TestApp.Resource.Style.Widget_AppCompat_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::TestApp.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::TestApp.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::TestApp.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::TestApp.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionButton = global::TestApp.Resource.Style.Widget_AppCompat_ActionButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::TestApp.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::TestApp.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActionMode = global::TestApp.Resource.Style.Widget_AppCompat_ActionMode;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ActivityChooserView = global::TestApp.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::TestApp.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Button = global::TestApp.Resource.Style.Widget_AppCompat_Button;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ButtonBar = global::TestApp.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::TestApp.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Button_Borderless = global::TestApp.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::TestApp.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TestApp.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Button_Colored = global::TestApp.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Button_Small = global::TestApp.Resource.Style.Widget_AppCompat_Button_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::TestApp.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::TestApp.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::TestApp.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::TestApp.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::TestApp.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_EditText = global::TestApp.Resource.Style.Widget_AppCompat_EditText;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ImageButton = global::TestApp.Resource.Style.Widget_AppCompat_ImageButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionButton = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::TestApp.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::TestApp.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::TestApp.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::TestApp.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::TestApp.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::TestApp.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::TestApp.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_SearchView = global::TestApp.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::TestApp.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ListMenuView = global::TestApp.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ListPopupWindow = global::TestApp.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ListView = global::TestApp.Resource.Style.Widget_AppCompat_ListView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ListView_DropDown = global::TestApp.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ListView_Menu = global::TestApp.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_PopupMenu = global::TestApp.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::TestApp.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_PopupWindow = global::TestApp.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ProgressBar = global::TestApp.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::TestApp.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_RatingBar = global::TestApp.Resource.Style.Widget_AppCompat_RatingBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::TestApp.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_RatingBar_Small = global::TestApp.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_SearchView = global::TestApp.Resource.Style.Widget_AppCompat_SearchView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::TestApp.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_SeekBar = global::TestApp.Resource.Style.Widget_AppCompat_SeekBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::TestApp.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Spinner = global::TestApp.Resource.Style.Widget_AppCompat_Spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::TestApp.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::TestApp.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::TestApp.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_TextView = global::TestApp.Resource.Style.Widget_AppCompat_TextView;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::TestApp.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Toolbar = global::TestApp.Resource.Style.Widget_AppCompat_Toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::TestApp.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_Compat_NotificationActionContainer = global::TestApp.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::AccountNumberPredictionLibrary2.Resource.Style.Widget_Compat_NotificationActionText = global::TestApp.Resource.Style.Widget_Compat_NotificationActionText;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar = global::TestApp.Resource.Styleable.ActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBarLayout = global::TestApp.Resource.Styleable.ActionBarLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::TestApp.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_background = global::TestApp.Resource.Styleable.ActionBar_background;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_backgroundSplit = global::TestApp.Resource.Styleable.ActionBar_backgroundSplit;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_backgroundStacked = global::TestApp.Resource.Styleable.ActionBar_backgroundStacked;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_contentInsetEnd = global::TestApp.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::TestApp.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_contentInsetLeft = global::TestApp.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_contentInsetRight = global::TestApp.Resource.Styleable.ActionBar_contentInsetRight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_contentInsetStart = global::TestApp.Resource.Styleable.ActionBar_contentInsetStart;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::TestApp.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_customNavigationLayout = global::TestApp.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_displayOptions = global::TestApp.Resource.Styleable.ActionBar_displayOptions;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_divider = global::TestApp.Resource.Styleable.ActionBar_divider;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_elevation = global::TestApp.Resource.Styleable.ActionBar_elevation;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_height = global::TestApp.Resource.Styleable.ActionBar_height;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_hideOnContentScroll = global::TestApp.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_homeAsUpIndicator = global::TestApp.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_homeLayout = global::TestApp.Resource.Styleable.ActionBar_homeLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_icon = global::TestApp.Resource.Styleable.ActionBar_icon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::TestApp.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_itemPadding = global::TestApp.Resource.Styleable.ActionBar_itemPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_logo = global::TestApp.Resource.Styleable.ActionBar_logo;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_navigationMode = global::TestApp.Resource.Styleable.ActionBar_navigationMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_popupTheme = global::TestApp.Resource.Styleable.ActionBar_popupTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_progressBarPadding = global::TestApp.Resource.Styleable.ActionBar_progressBarPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_progressBarStyle = global::TestApp.Resource.Styleable.ActionBar_progressBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_subtitle = global::TestApp.Resource.Styleable.ActionBar_subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_subtitleTextStyle = global::TestApp.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_title = global::TestApp.Resource.Styleable.ActionBar_title;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionBar_titleTextStyle = global::TestApp.Resource.Styleable.ActionBar_titleTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMenuItemView = global::TestApp.Resource.Styleable.ActionMenuItemView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMenuItemView_android_minWidth = global::TestApp.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMenuView = global::TestApp.Resource.Styleable.ActionMenuView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMode = global::TestApp.Resource.Styleable.ActionMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMode_background = global::TestApp.Resource.Styleable.ActionMode_background;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMode_backgroundSplit = global::TestApp.Resource.Styleable.ActionMode_backgroundSplit;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMode_closeItemLayout = global::TestApp.Resource.Styleable.ActionMode_closeItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMode_height = global::TestApp.Resource.Styleable.ActionMode_height;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMode_subtitleTextStyle = global::TestApp.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActionMode_titleTextStyle = global::TestApp.Resource.Styleable.ActionMode_titleTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActivityChooserView = global::TestApp.Resource.Styleable.ActivityChooserView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::TestApp.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ActivityChooserView_initialActivityCount = global::TestApp.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog = global::TestApp.Resource.Styleable.AlertDialog;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_android_layout = global::TestApp.Resource.Styleable.AlertDialog_android_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_buttonIconDimen = global::TestApp.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::TestApp.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_listItemLayout = global::TestApp.Resource.Styleable.AlertDialog_listItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_listLayout = global::TestApp.Resource.Styleable.AlertDialog_listLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::TestApp.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_showTitle = global::TestApp.Resource.Styleable.AlertDialog_showTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::TestApp.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableCompat = global::TestApp.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::TestApp.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::TestApp.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::TestApp.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::TestApp.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::TestApp.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::TestApp.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableItem = global::TestApp.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::TestApp.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::TestApp.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableTransition = global::TestApp.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::TestApp.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::TestApp.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::TestApp.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::TestApp.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatImageView = global::TestApp.Resource.Styleable.AppCompatImageView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatImageView_android_src = global::TestApp.Resource.Styleable.AppCompatImageView_android_src;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatImageView_srcCompat = global::TestApp.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatImageView_tint = global::TestApp.Resource.Styleable.AppCompatImageView_tint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatImageView_tintMode = global::TestApp.Resource.Styleable.AppCompatImageView_tintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatSeekBar = global::TestApp.Resource.Styleable.AppCompatSeekBar;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatSeekBar_android_thumb = global::TestApp.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatSeekBar_tickMark = global::TestApp.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::TestApp.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::TestApp.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper = global::TestApp.Resource.Styleable.AppCompatTextHelper;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::TestApp.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::TestApp.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::TestApp.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::TestApp.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::TestApp.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::TestApp.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::TestApp.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView = global::TestApp.Resource.Styleable.AppCompatTextView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_android_textAppearance = global::TestApp.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::TestApp.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::TestApp.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::TestApp.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::TestApp.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::TestApp.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::TestApp.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::TestApp.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::TestApp.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::TestApp.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::TestApp.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableTint = global::TestApp.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableTintMode = global::TestApp.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::TestApp.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::TestApp.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_fontFamily = global::TestApp.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::TestApp.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::TestApp.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_lineHeight = global::TestApp.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_textAllCaps = global::TestApp.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTextView_textLocale = global::TestApp.Resource.Styleable.AppCompatTextView_textLocale;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme = global::TestApp.Resource.Styleable.AppCompatTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarDivider = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarSize = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarTheme = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::TestApp.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::TestApp.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::TestApp.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeBackground = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::TestApp.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::TestApp.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::TestApp.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::TestApp.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::TestApp.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::TestApp.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::TestApp.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::TestApp.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::TestApp.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::TestApp.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::TestApp.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_buttonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::TestApp.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_checkboxStyle = global::TestApp.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::TestApp.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorAccent = global::TestApp.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::TestApp.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::TestApp.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorControlActivated = global::TestApp.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::TestApp.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorControlNormal = global::TestApp.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorError = global::TestApp.Resource.Styleable.AppCompatTheme_colorError;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorPrimary = global::TestApp.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::TestApp.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::TestApp.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_controlBackground = global::TestApp.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::TestApp.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::TestApp.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_dialogTheme = global::TestApp.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::TestApp.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_dividerVertical = global::TestApp.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::TestApp.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::TestApp.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_editTextBackground = global::TestApp.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_editTextColor = global::TestApp.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_editTextStyle = global::TestApp.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::TestApp.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::TestApp.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::TestApp.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::TestApp.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::TestApp.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::TestApp.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::TestApp.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::TestApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::TestApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::TestApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::TestApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::TestApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::TestApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::TestApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_panelBackground = global::TestApp.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::TestApp.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::TestApp.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::TestApp.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::TestApp.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::TestApp.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::TestApp.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::TestApp.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_searchViewStyle = global::TestApp.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_seekBarStyle = global::TestApp.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::TestApp.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::TestApp.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::TestApp.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_spinnerStyle = global::TestApp.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_switchStyle = global::TestApp.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::TestApp.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::TestApp.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::TestApp.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::TestApp.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_toolbarStyle = global::TestApp.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::TestApp.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::TestApp.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::TestApp.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowActionBar = global::TestApp.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::TestApp.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::TestApp.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::TestApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::TestApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::TestApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::TestApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::TestApp.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::TestApp.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.AppCompatTheme_windowNoTitle = global::TestApp.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ButtonBarLayout = global::TestApp.Resource.Styleable.ButtonBarLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ButtonBarLayout_allowStacking = global::TestApp.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ColorStateListItem = global::TestApp.Resource.Styleable.ColorStateListItem;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ColorStateListItem_alpha = global::TestApp.Resource.Styleable.ColorStateListItem_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ColorStateListItem_android_alpha = global::TestApp.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ColorStateListItem_android_color = global::TestApp.Resource.Styleable.ColorStateListItem_android_color;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.CompoundButton = global::TestApp.Resource.Styleable.CompoundButton;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.CompoundButton_android_button = global::TestApp.Resource.Styleable.CompoundButton_android_button;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.CompoundButton_buttonCompat = global::TestApp.Resource.Styleable.CompoundButton_buttonCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.CompoundButton_buttonTint = global::TestApp.Resource.Styleable.CompoundButton_buttonTint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.CompoundButton_buttonTintMode = global::TestApp.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle = global::TestApp.Resource.Styleable.DrawerArrowToggle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::TestApp.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::TestApp.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_barLength = global::TestApp.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_color = global::TestApp.Resource.Styleable.DrawerArrowToggle_color;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_drawableSize = global::TestApp.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::TestApp.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_spinBars = global::TestApp.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerArrowToggle_thickness = global::TestApp.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerLayout = global::TestApp.Resource.Styleable.DrawerLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.DrawerLayout_elevation = global::TestApp.Resource.Styleable.DrawerLayout_elevation;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamily = global::TestApp.Resource.Styleable.FontFamily;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont = global::TestApp.Resource.Styleable.FontFamilyFont;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_android_font = global::TestApp.Resource.Styleable.FontFamilyFont_android_font;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_android_fontStyle = global::TestApp.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::TestApp.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_android_fontWeight = global::TestApp.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::TestApp.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_font = global::TestApp.Resource.Styleable.FontFamilyFont_font;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_fontStyle = global::TestApp.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::TestApp.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_fontWeight = global::TestApp.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamilyFont_ttcIndex = global::TestApp.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamily_fontProviderAuthority = global::TestApp.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamily_fontProviderCerts = global::TestApp.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::TestApp.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::TestApp.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamily_fontProviderPackage = global::TestApp.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FontFamily_fontProviderQuery = global::TestApp.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Fragment = global::TestApp.Resource.Styleable.Fragment;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FragmentContainerView = global::TestApp.Resource.Styleable.FragmentContainerView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FragmentContainerView_android_name = global::TestApp.Resource.Styleable.FragmentContainerView_android_name;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.FragmentContainerView_android_tag = global::TestApp.Resource.Styleable.FragmentContainerView_android_tag;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Fragment_android_id = global::TestApp.Resource.Styleable.Fragment_android_id;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Fragment_android_name = global::TestApp.Resource.Styleable.Fragment_android_name;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Fragment_android_tag = global::TestApp.Resource.Styleable.Fragment_android_tag;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor = global::TestApp.Resource.Styleable.GradientColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColorItem = global::TestApp.Resource.Styleable.GradientColorItem;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColorItem_android_color = global::TestApp.Resource.Styleable.GradientColorItem_android_color;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColorItem_android_offset = global::TestApp.Resource.Styleable.GradientColorItem_android_offset;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_centerColor = global::TestApp.Resource.Styleable.GradientColor_android_centerColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_centerX = global::TestApp.Resource.Styleable.GradientColor_android_centerX;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_centerY = global::TestApp.Resource.Styleable.GradientColor_android_centerY;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_endColor = global::TestApp.Resource.Styleable.GradientColor_android_endColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_endX = global::TestApp.Resource.Styleable.GradientColor_android_endX;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_endY = global::TestApp.Resource.Styleable.GradientColor_android_endY;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_gradientRadius = global::TestApp.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_startColor = global::TestApp.Resource.Styleable.GradientColor_android_startColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_startX = global::TestApp.Resource.Styleable.GradientColor_android_startX;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_startY = global::TestApp.Resource.Styleable.GradientColor_android_startY;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_tileMode = global::TestApp.Resource.Styleable.GradientColor_android_tileMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.GradientColor_android_type = global::TestApp.Resource.Styleable.GradientColor_android_type;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat = global::TestApp.Resource.Styleable.LinearLayoutCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::TestApp.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::TestApp.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_android_gravity = global::TestApp.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_android_orientation = global::TestApp.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::TestApp.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_divider = global::TestApp.Resource.Styleable.LinearLayoutCompat_divider;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::TestApp.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_Layout = global::TestApp.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::TestApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::TestApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::TestApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::TestApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::TestApp.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.LinearLayoutCompat_showDividers = global::TestApp.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ListPopupWindow = global::TestApp.Resource.Styleable.ListPopupWindow;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::TestApp.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::TestApp.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuGroup = global::TestApp.Resource.Styleable.MenuGroup;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuGroup_android_checkableBehavior = global::TestApp.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuGroup_android_enabled = global::TestApp.Resource.Styleable.MenuGroup_android_enabled;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuGroup_android_id = global::TestApp.Resource.Styleable.MenuGroup_android_id;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuGroup_android_menuCategory = global::TestApp.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuGroup_android_orderInCategory = global::TestApp.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuGroup_android_visible = global::TestApp.Resource.Styleable.MenuGroup_android_visible;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem = global::TestApp.Resource.Styleable.MenuItem;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_actionLayout = global::TestApp.Resource.Styleable.MenuItem_actionLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_actionProviderClass = global::TestApp.Resource.Styleable.MenuItem_actionProviderClass;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_actionViewClass = global::TestApp.Resource.Styleable.MenuItem_actionViewClass;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_alphabeticModifiers = global::TestApp.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::TestApp.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_checkable = global::TestApp.Resource.Styleable.MenuItem_android_checkable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_checked = global::TestApp.Resource.Styleable.MenuItem_android_checked;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_enabled = global::TestApp.Resource.Styleable.MenuItem_android_enabled;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_icon = global::TestApp.Resource.Styleable.MenuItem_android_icon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_id = global::TestApp.Resource.Styleable.MenuItem_android_id;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_menuCategory = global::TestApp.Resource.Styleable.MenuItem_android_menuCategory;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_numericShortcut = global::TestApp.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_onClick = global::TestApp.Resource.Styleable.MenuItem_android_onClick;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_orderInCategory = global::TestApp.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_title = global::TestApp.Resource.Styleable.MenuItem_android_title;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_titleCondensed = global::TestApp.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_android_visible = global::TestApp.Resource.Styleable.MenuItem_android_visible;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_contentDescription = global::TestApp.Resource.Styleable.MenuItem_contentDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_iconTint = global::TestApp.Resource.Styleable.MenuItem_iconTint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_iconTintMode = global::TestApp.Resource.Styleable.MenuItem_iconTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_numericModifiers = global::TestApp.Resource.Styleable.MenuItem_numericModifiers;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_showAsAction = global::TestApp.Resource.Styleable.MenuItem_showAsAction;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuItem_tooltipText = global::TestApp.Resource.Styleable.MenuItem_tooltipText;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView = global::TestApp.Resource.Styleable.MenuView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_android_headerBackground = global::TestApp.Resource.Styleable.MenuView_android_headerBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_android_horizontalDivider = global::TestApp.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_android_itemBackground = global::TestApp.Resource.Styleable.MenuView_android_itemBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::TestApp.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_android_itemTextAppearance = global::TestApp.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_android_verticalDivider = global::TestApp.Resource.Styleable.MenuView_android_verticalDivider;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_android_windowAnimationStyle = global::TestApp.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_preserveIconSpacing = global::TestApp.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.MenuView_subMenuArrow = global::TestApp.Resource.Styleable.MenuView_subMenuArrow;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.PopupWindow = global::TestApp.Resource.Styleable.PopupWindow;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.PopupWindowBackgroundState = global::TestApp.Resource.Styleable.PopupWindowBackgroundState;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::TestApp.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::TestApp.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.PopupWindow_android_popupBackground = global::TestApp.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.PopupWindow_overlapAnchor = global::TestApp.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.RecycleListView = global::TestApp.Resource.Styleable.RecycleListView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::TestApp.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::TestApp.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView = global::TestApp.Resource.Styleable.SearchView;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_android_focusable = global::TestApp.Resource.Styleable.SearchView_android_focusable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_android_imeOptions = global::TestApp.Resource.Styleable.SearchView_android_imeOptions;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_android_inputType = global::TestApp.Resource.Styleable.SearchView_android_inputType;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_android_maxWidth = global::TestApp.Resource.Styleable.SearchView_android_maxWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_closeIcon = global::TestApp.Resource.Styleable.SearchView_closeIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_commitIcon = global::TestApp.Resource.Styleable.SearchView_commitIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_defaultQueryHint = global::TestApp.Resource.Styleable.SearchView_defaultQueryHint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_goIcon = global::TestApp.Resource.Styleable.SearchView_goIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_iconifiedByDefault = global::TestApp.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_layout = global::TestApp.Resource.Styleable.SearchView_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_queryBackground = global::TestApp.Resource.Styleable.SearchView_queryBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_queryHint = global::TestApp.Resource.Styleable.SearchView_queryHint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_searchHintIcon = global::TestApp.Resource.Styleable.SearchView_searchHintIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_searchIcon = global::TestApp.Resource.Styleable.SearchView_searchIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_submitBackground = global::TestApp.Resource.Styleable.SearchView_submitBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_suggestionRowLayout = global::TestApp.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SearchView_voiceIcon = global::TestApp.Resource.Styleable.SearchView_voiceIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Spinner = global::TestApp.Resource.Styleable.Spinner;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Spinner_android_dropDownWidth = global::TestApp.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Spinner_android_entries = global::TestApp.Resource.Styleable.Spinner_android_entries;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Spinner_android_popupBackground = global::TestApp.Resource.Styleable.Spinner_android_popupBackground;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Spinner_android_prompt = global::TestApp.Resource.Styleable.Spinner_android_prompt;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Spinner_popupTheme = global::TestApp.Resource.Styleable.Spinner_popupTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawable = global::TestApp.Resource.Styleable.StateListDrawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawableItem = global::TestApp.Resource.Styleable.StateListDrawableItem;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawableItem_android_drawable = global::TestApp.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawable_android_constantSize = global::TestApp.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawable_android_dither = global::TestApp.Resource.Styleable.StateListDrawable_android_dither;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::TestApp.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::TestApp.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawable_android_variablePadding = global::TestApp.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.StateListDrawable_android_visible = global::TestApp.Resource.Styleable.StateListDrawable_android_visible;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat = global::TestApp.Resource.Styleable.SwitchCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_android_textOff = global::TestApp.Resource.Styleable.SwitchCompat_android_textOff;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_android_textOn = global::TestApp.Resource.Styleable.SwitchCompat_android_textOn;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_android_thumb = global::TestApp.Resource.Styleable.SwitchCompat_android_thumb;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_showText = global::TestApp.Resource.Styleable.SwitchCompat_showText;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_splitTrack = global::TestApp.Resource.Styleable.SwitchCompat_splitTrack;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_switchMinWidth = global::TestApp.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_switchPadding = global::TestApp.Resource.Styleable.SwitchCompat_switchPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_switchTextAppearance = global::TestApp.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_thumbTextPadding = global::TestApp.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_thumbTint = global::TestApp.Resource.Styleable.SwitchCompat_thumbTint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_thumbTintMode = global::TestApp.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_track = global::TestApp.Resource.Styleable.SwitchCompat_track;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_trackTint = global::TestApp.Resource.Styleable.SwitchCompat_trackTint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.SwitchCompat_trackTintMode = global::TestApp.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance = global::TestApp.Resource.Styleable.TextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_fontFamily = global::TestApp.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_shadowColor = global::TestApp.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_shadowDx = global::TestApp.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_shadowDy = global::TestApp.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_shadowRadius = global::TestApp.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_textColor = global::TestApp.Resource.Styleable.TextAppearance_android_textColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_textColorHint = global::TestApp.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_textColorLink = global::TestApp.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_textFontWeight = global::TestApp.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_textSize = global::TestApp.Resource.Styleable.TextAppearance_android_textSize;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_textStyle = global::TestApp.Resource.Styleable.TextAppearance_android_textStyle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_android_typeface = global::TestApp.Resource.Styleable.TextAppearance_android_typeface;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_fontFamily = global::TestApp.Resource.Styleable.TextAppearance_fontFamily;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_fontVariationSettings = global::TestApp.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_textAllCaps = global::TestApp.Resource.Styleable.TextAppearance_textAllCaps;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.TextAppearance_textLocale = global::TestApp.Resource.Styleable.TextAppearance_textLocale;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar = global::TestApp.Resource.Styleable.Toolbar;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_android_gravity = global::TestApp.Resource.Styleable.Toolbar_android_gravity;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_android_minHeight = global::TestApp.Resource.Styleable.Toolbar_android_minHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_buttonGravity = global::TestApp.Resource.Styleable.Toolbar_buttonGravity;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_collapseContentDescription = global::TestApp.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_collapseIcon = global::TestApp.Resource.Styleable.Toolbar_collapseIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_contentInsetEnd = global::TestApp.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::TestApp.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_contentInsetLeft = global::TestApp.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_contentInsetRight = global::TestApp.Resource.Styleable.Toolbar_contentInsetRight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_contentInsetStart = global::TestApp.Resource.Styleable.Toolbar_contentInsetStart;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::TestApp.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_logo = global::TestApp.Resource.Styleable.Toolbar_logo;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_logoDescription = global::TestApp.Resource.Styleable.Toolbar_logoDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_maxButtonHeight = global::TestApp.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_menu = global::TestApp.Resource.Styleable.Toolbar_menu;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_navigationContentDescription = global::TestApp.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_navigationIcon = global::TestApp.Resource.Styleable.Toolbar_navigationIcon;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_popupTheme = global::TestApp.Resource.Styleable.Toolbar_popupTheme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_subtitle = global::TestApp.Resource.Styleable.Toolbar_subtitle;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_subtitleTextAppearance = global::TestApp.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_subtitleTextColor = global::TestApp.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_title = global::TestApp.Resource.Styleable.Toolbar_title;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleMargin = global::TestApp.Resource.Styleable.Toolbar_titleMargin;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleMarginBottom = global::TestApp.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleMarginEnd = global::TestApp.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleMargins = global::TestApp.Resource.Styleable.Toolbar_titleMargins;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleMarginStart = global::TestApp.Resource.Styleable.Toolbar_titleMarginStart;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleMarginTop = global::TestApp.Resource.Styleable.Toolbar_titleMarginTop;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleTextAppearance = global::TestApp.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.Toolbar_titleTextColor = global::TestApp.Resource.Styleable.Toolbar_titleTextColor;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.View = global::TestApp.Resource.Styleable.View;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewBackgroundHelper = global::TestApp.Resource.Styleable.ViewBackgroundHelper;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewBackgroundHelper_android_background = global::TestApp.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::TestApp.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::TestApp.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewStubCompat = global::TestApp.Resource.Styleable.ViewStubCompat;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewStubCompat_android_id = global::TestApp.Resource.Styleable.ViewStubCompat_android_id;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewStubCompat_android_inflatedId = global::TestApp.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.ViewStubCompat_android_layout = global::TestApp.Resource.Styleable.ViewStubCompat_android_layout;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.View_android_focusable = global::TestApp.Resource.Styleable.View_android_focusable;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.View_android_theme = global::TestApp.Resource.Styleable.View_android_theme;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.View_paddingEnd = global::TestApp.Resource.Styleable.View_paddingEnd;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.View_paddingStart = global::TestApp.Resource.Styleable.View_paddingStart;
+			global::AccountNumberPredictionLibrary2.Resource.Styleable.View_theme = global::TestApp.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::TestApp.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::TestApp.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::TestApp.Resource.Attribute.fontProviderAuthority;
@@ -1987,331 +3689,343 @@ namespace TestApp
 			public const int androidx_core_secondary_text_default_material_light = 2131034140;
 			
 			// aapt resource value: 0x7F05001D
-			public const int background_floating_material_dark = 2131034141;
+			public const int appColor = 2131034141;
 			
 			// aapt resource value: 0x7F05001E
-			public const int background_floating_material_light = 2131034142;
+			public const int background_floating_material_dark = 2131034142;
 			
 			// aapt resource value: 0x7F05001F
-			public const int background_material_dark = 2131034143;
+			public const int background_floating_material_light = 2131034143;
 			
 			// aapt resource value: 0x7F050020
-			public const int background_material_light = 2131034144;
+			public const int background_material_dark = 2131034144;
 			
 			// aapt resource value: 0x7F050021
-			public const int bright_foreground_disabled_material_dark = 2131034145;
+			public const int background_material_light = 2131034145;
 			
 			// aapt resource value: 0x7F050022
-			public const int bright_foreground_disabled_material_light = 2131034146;
+			public const int black = 2131034146;
 			
 			// aapt resource value: 0x7F050023
-			public const int bright_foreground_inverse_material_dark = 2131034147;
+			public const int bright_foreground_disabled_material_dark = 2131034147;
 			
 			// aapt resource value: 0x7F050024
-			public const int bright_foreground_inverse_material_light = 2131034148;
+			public const int bright_foreground_disabled_material_light = 2131034148;
 			
 			// aapt resource value: 0x7F050025
-			public const int bright_foreground_material_dark = 2131034149;
+			public const int bright_foreground_inverse_material_dark = 2131034149;
 			
 			// aapt resource value: 0x7F050026
-			public const int bright_foreground_material_light = 2131034150;
+			public const int bright_foreground_inverse_material_light = 2131034150;
 			
 			// aapt resource value: 0x7F050027
-			public const int browser_actions_bg_grey = 2131034151;
+			public const int bright_foreground_material_dark = 2131034151;
 			
 			// aapt resource value: 0x7F050028
-			public const int browser_actions_divider_color = 2131034152;
+			public const int bright_foreground_material_light = 2131034152;
 			
 			// aapt resource value: 0x7F050029
-			public const int browser_actions_text_color = 2131034153;
+			public const int browser_actions_bg_grey = 2131034153;
 			
 			// aapt resource value: 0x7F05002A
-			public const int browser_actions_title_color = 2131034154;
+			public const int browser_actions_divider_color = 2131034154;
 			
 			// aapt resource value: 0x7F05002B
-			public const int button_material_dark = 2131034155;
+			public const int browser_actions_text_color = 2131034155;
 			
 			// aapt resource value: 0x7F05002C
-			public const int button_material_light = 2131034156;
+			public const int browser_actions_title_color = 2131034156;
 			
 			// aapt resource value: 0x7F05002D
-			public const int cardview_dark_background = 2131034157;
+			public const int button_material_dark = 2131034157;
 			
 			// aapt resource value: 0x7F05002E
-			public const int cardview_light_background = 2131034158;
+			public const int button_material_light = 2131034158;
 			
 			// aapt resource value: 0x7F05002F
-			public const int cardview_shadow_end_color = 2131034159;
+			public const int cardview_dark_background = 2131034159;
 			
 			// aapt resource value: 0x7F050030
-			public const int cardview_shadow_start_color = 2131034160;
+			public const int cardview_light_background = 2131034160;
 			
 			// aapt resource value: 0x7F050031
-			public const int colorAccent = 2131034161;
+			public const int cardview_shadow_end_color = 2131034161;
 			
 			// aapt resource value: 0x7F050032
-			public const int colorPrimary = 2131034162;
+			public const int cardview_shadow_start_color = 2131034162;
 			
 			// aapt resource value: 0x7F050033
-			public const int colorPrimaryDark = 2131034163;
+			public const int colorAccent = 2131034163;
 			
 			// aapt resource value: 0x7F050034
-			public const int design_bottom_navigation_shadow_color = 2131034164;
+			public const int colorFaintGrayWhite = 2131034164;
 			
 			// aapt resource value: 0x7F050035
-			public const int design_default_color_primary = 2131034165;
+			public const int colorPrimary = 2131034165;
 			
 			// aapt resource value: 0x7F050036
-			public const int design_default_color_primary_dark = 2131034166;
+			public const int colorPrimaryDark = 2131034166;
 			
 			// aapt resource value: 0x7F050037
-			public const int design_error = 2131034167;
+			public const int design_bottom_navigation_shadow_color = 2131034167;
 			
 			// aapt resource value: 0x7F050038
-			public const int design_fab_shadow_end_color = 2131034168;
+			public const int design_default_color_primary = 2131034168;
 			
 			// aapt resource value: 0x7F050039
-			public const int design_fab_shadow_mid_color = 2131034169;
+			public const int design_default_color_primary_dark = 2131034169;
 			
 			// aapt resource value: 0x7F05003A
-			public const int design_fab_shadow_start_color = 2131034170;
+			public const int design_error = 2131034170;
 			
 			// aapt resource value: 0x7F05003B
-			public const int design_fab_stroke_end_inner_color = 2131034171;
+			public const int design_fab_shadow_end_color = 2131034171;
 			
 			// aapt resource value: 0x7F05003C
-			public const int design_fab_stroke_end_outer_color = 2131034172;
+			public const int design_fab_shadow_mid_color = 2131034172;
 			
 			// aapt resource value: 0x7F05003D
-			public const int design_fab_stroke_top_inner_color = 2131034173;
+			public const int design_fab_shadow_start_color = 2131034173;
 			
 			// aapt resource value: 0x7F05003E
-			public const int design_fab_stroke_top_outer_color = 2131034174;
+			public const int design_fab_stroke_end_inner_color = 2131034174;
 			
 			// aapt resource value: 0x7F05003F
-			public const int design_snackbar_background_color = 2131034175;
+			public const int design_fab_stroke_end_outer_color = 2131034175;
 			
 			// aapt resource value: 0x7F050040
-			public const int design_tint_password_toggle = 2131034176;
+			public const int design_fab_stroke_top_inner_color = 2131034176;
 			
 			// aapt resource value: 0x7F050041
-			public const int dim_foreground_disabled_material_dark = 2131034177;
+			public const int design_fab_stroke_top_outer_color = 2131034177;
 			
 			// aapt resource value: 0x7F050042
-			public const int dim_foreground_disabled_material_light = 2131034178;
+			public const int design_snackbar_background_color = 2131034178;
 			
 			// aapt resource value: 0x7F050043
-			public const int dim_foreground_material_dark = 2131034179;
+			public const int design_tint_password_toggle = 2131034179;
 			
 			// aapt resource value: 0x7F050044
-			public const int dim_foreground_material_light = 2131034180;
+			public const int dim_foreground_disabled_material_dark = 2131034180;
 			
 			// aapt resource value: 0x7F050045
-			public const int error_color_material_dark = 2131034181;
+			public const int dim_foreground_disabled_material_light = 2131034181;
 			
 			// aapt resource value: 0x7F050046
-			public const int error_color_material_light = 2131034182;
+			public const int dim_foreground_material_dark = 2131034182;
 			
 			// aapt resource value: 0x7F050047
-			public const int foreground_material_dark = 2131034183;
+			public const int dim_foreground_material_light = 2131034183;
 			
 			// aapt resource value: 0x7F050048
-			public const int foreground_material_light = 2131034184;
+			public const int error_color_material_dark = 2131034184;
 			
 			// aapt resource value: 0x7F050049
-			public const int highlighted_text_material_dark = 2131034185;
+			public const int error_color_material_light = 2131034185;
 			
 			// aapt resource value: 0x7F05004A
-			public const int highlighted_text_material_light = 2131034186;
+			public const int foreground_material_dark = 2131034186;
 			
 			// aapt resource value: 0x7F05004B
-			public const int ic_launcher_background = 2131034187;
+			public const int foreground_material_light = 2131034187;
 			
 			// aapt resource value: 0x7F05004C
-			public const int material_blue_grey_800 = 2131034188;
+			public const int highlighted_text_material_dark = 2131034188;
 			
 			// aapt resource value: 0x7F05004D
-			public const int material_blue_grey_900 = 2131034189;
+			public const int highlighted_text_material_light = 2131034189;
 			
 			// aapt resource value: 0x7F05004E
-			public const int material_blue_grey_950 = 2131034190;
+			public const int ic_launcher_background = 2131034190;
 			
 			// aapt resource value: 0x7F05004F
-			public const int material_deep_teal_200 = 2131034191;
+			public const int material_blue_grey_800 = 2131034191;
 			
 			// aapt resource value: 0x7F050050
-			public const int material_deep_teal_500 = 2131034192;
+			public const int material_blue_grey_900 = 2131034192;
 			
 			// aapt resource value: 0x7F050051
-			public const int material_grey_100 = 2131034193;
+			public const int material_blue_grey_950 = 2131034193;
 			
 			// aapt resource value: 0x7F050052
-			public const int material_grey_300 = 2131034194;
+			public const int material_deep_teal_200 = 2131034194;
 			
 			// aapt resource value: 0x7F050053
-			public const int material_grey_50 = 2131034195;
+			public const int material_deep_teal_500 = 2131034195;
 			
 			// aapt resource value: 0x7F050054
-			public const int material_grey_600 = 2131034196;
+			public const int material_grey_100 = 2131034196;
 			
 			// aapt resource value: 0x7F050055
-			public const int material_grey_800 = 2131034197;
+			public const int material_grey_300 = 2131034197;
 			
 			// aapt resource value: 0x7F050056
-			public const int material_grey_850 = 2131034198;
+			public const int material_grey_50 = 2131034198;
 			
 			// aapt resource value: 0x7F050057
-			public const int material_grey_900 = 2131034199;
+			public const int material_grey_600 = 2131034199;
 			
 			// aapt resource value: 0x7F050058
-			public const int mtrl_bottom_nav_colored_item_tint = 2131034200;
+			public const int material_grey_800 = 2131034200;
 			
 			// aapt resource value: 0x7F050059
-			public const int mtrl_bottom_nav_item_tint = 2131034201;
+			public const int material_grey_850 = 2131034201;
 			
 			// aapt resource value: 0x7F05005A
-			public const int mtrl_btn_bg_color_disabled = 2131034202;
+			public const int material_grey_900 = 2131034202;
 			
 			// aapt resource value: 0x7F05005B
-			public const int mtrl_btn_bg_color_selector = 2131034203;
+			public const int mtrl_bottom_nav_colored_item_tint = 2131034203;
 			
 			// aapt resource value: 0x7F05005C
-			public const int mtrl_btn_ripple_color = 2131034204;
+			public const int mtrl_bottom_nav_item_tint = 2131034204;
 			
 			// aapt resource value: 0x7F05005D
-			public const int mtrl_btn_stroke_color_selector = 2131034205;
+			public const int mtrl_btn_bg_color_disabled = 2131034205;
 			
 			// aapt resource value: 0x7F05005E
-			public const int mtrl_btn_text_btn_ripple_color = 2131034206;
+			public const int mtrl_btn_bg_color_selector = 2131034206;
 			
 			// aapt resource value: 0x7F05005F
-			public const int mtrl_btn_text_color_disabled = 2131034207;
+			public const int mtrl_btn_ripple_color = 2131034207;
 			
 			// aapt resource value: 0x7F050060
-			public const int mtrl_btn_text_color_selector = 2131034208;
+			public const int mtrl_btn_stroke_color_selector = 2131034208;
 			
 			// aapt resource value: 0x7F050061
-			public const int mtrl_btn_transparent_bg_color = 2131034209;
+			public const int mtrl_btn_text_btn_ripple_color = 2131034209;
 			
 			// aapt resource value: 0x7F050062
-			public const int mtrl_chip_background_color = 2131034210;
+			public const int mtrl_btn_text_color_disabled = 2131034210;
 			
 			// aapt resource value: 0x7F050063
-			public const int mtrl_chip_close_icon_tint = 2131034211;
+			public const int mtrl_btn_text_color_selector = 2131034211;
 			
 			// aapt resource value: 0x7F050064
-			public const int mtrl_chip_ripple_color = 2131034212;
+			public const int mtrl_btn_transparent_bg_color = 2131034212;
 			
 			// aapt resource value: 0x7F050065
-			public const int mtrl_chip_text_color = 2131034213;
+			public const int mtrl_chip_background_color = 2131034213;
 			
 			// aapt resource value: 0x7F050066
-			public const int mtrl_fab_ripple_color = 2131034214;
+			public const int mtrl_chip_close_icon_tint = 2131034214;
 			
 			// aapt resource value: 0x7F050067
-			public const int mtrl_scrim_color = 2131034215;
+			public const int mtrl_chip_ripple_color = 2131034215;
 			
 			// aapt resource value: 0x7F050068
-			public const int mtrl_tabs_colored_ripple_color = 2131034216;
+			public const int mtrl_chip_text_color = 2131034216;
 			
 			// aapt resource value: 0x7F050069
-			public const int mtrl_tabs_icon_color_selector = 2131034217;
+			public const int mtrl_fab_ripple_color = 2131034217;
 			
 			// aapt resource value: 0x7F05006A
-			public const int mtrl_tabs_icon_color_selector_colored = 2131034218;
+			public const int mtrl_scrim_color = 2131034218;
 			
 			// aapt resource value: 0x7F05006B
-			public const int mtrl_tabs_legacy_text_color_selector = 2131034219;
+			public const int mtrl_tabs_colored_ripple_color = 2131034219;
 			
 			// aapt resource value: 0x7F05006C
-			public const int mtrl_tabs_ripple_color = 2131034220;
-			
-			// aapt resource value: 0x7F05006E
-			public const int mtrl_textinput_default_box_stroke_color = 2131034222;
-			
-			// aapt resource value: 0x7F05006F
-			public const int mtrl_textinput_disabled_color = 2131034223;
-			
-			// aapt resource value: 0x7F050070
-			public const int mtrl_textinput_filled_box_default_background_color = 2131034224;
-			
-			// aapt resource value: 0x7F050071
-			public const int mtrl_textinput_hovered_box_stroke_color = 2131034225;
+			public const int mtrl_tabs_icon_color_selector = 2131034220;
 			
 			// aapt resource value: 0x7F05006D
-			public const int mtrl_text_btn_text_color_selector = 2131034221;
+			public const int mtrl_tabs_icon_color_selector_colored = 2131034221;
+			
+			// aapt resource value: 0x7F05006E
+			public const int mtrl_tabs_legacy_text_color_selector = 2131034222;
+			
+			// aapt resource value: 0x7F05006F
+			public const int mtrl_tabs_ripple_color = 2131034223;
+			
+			// aapt resource value: 0x7F050071
+			public const int mtrl_textinput_default_box_stroke_color = 2131034225;
 			
 			// aapt resource value: 0x7F050072
-			public const int notification_action_color_filter = 2131034226;
+			public const int mtrl_textinput_disabled_color = 2131034226;
 			
 			// aapt resource value: 0x7F050073
-			public const int notification_icon_bg_color = 2131034227;
+			public const int mtrl_textinput_filled_box_default_background_color = 2131034227;
 			
 			// aapt resource value: 0x7F050074
-			public const int primary_dark_material_dark = 2131034228;
+			public const int mtrl_textinput_hovered_box_stroke_color = 2131034228;
+			
+			// aapt resource value: 0x7F050070
+			public const int mtrl_text_btn_text_color_selector = 2131034224;
 			
 			// aapt resource value: 0x7F050075
-			public const int primary_dark_material_light = 2131034229;
+			public const int notification_action_color_filter = 2131034229;
 			
 			// aapt resource value: 0x7F050076
-			public const int primary_material_dark = 2131034230;
+			public const int notification_icon_bg_color = 2131034230;
 			
 			// aapt resource value: 0x7F050077
-			public const int primary_material_light = 2131034231;
+			public const int primary_dark_material_dark = 2131034231;
 			
 			// aapt resource value: 0x7F050078
-			public const int primary_text_default_material_dark = 2131034232;
+			public const int primary_dark_material_light = 2131034232;
 			
 			// aapt resource value: 0x7F050079
-			public const int primary_text_default_material_light = 2131034233;
+			public const int primary_material_dark = 2131034233;
 			
 			// aapt resource value: 0x7F05007A
-			public const int primary_text_disabled_material_dark = 2131034234;
+			public const int primary_material_light = 2131034234;
 			
 			// aapt resource value: 0x7F05007B
-			public const int primary_text_disabled_material_light = 2131034235;
+			public const int primary_text_default_material_dark = 2131034235;
 			
 			// aapt resource value: 0x7F05007C
-			public const int ripple_material_dark = 2131034236;
+			public const int primary_text_default_material_light = 2131034236;
 			
 			// aapt resource value: 0x7F05007D
-			public const int ripple_material_light = 2131034237;
+			public const int primary_text_disabled_material_dark = 2131034237;
 			
 			// aapt resource value: 0x7F05007E
-			public const int secondary_text_default_material_dark = 2131034238;
+			public const int primary_text_disabled_material_light = 2131034238;
 			
 			// aapt resource value: 0x7F05007F
-			public const int secondary_text_default_material_light = 2131034239;
+			public const int ripple_material_dark = 2131034239;
 			
 			// aapt resource value: 0x7F050080
-			public const int secondary_text_disabled_material_dark = 2131034240;
+			public const int ripple_material_light = 2131034240;
 			
 			// aapt resource value: 0x7F050081
-			public const int secondary_text_disabled_material_light = 2131034241;
+			public const int search_bar_icon_grey = 2131034241;
 			
 			// aapt resource value: 0x7F050082
-			public const int switch_thumb_disabled_material_dark = 2131034242;
+			public const int secondary_text_default_material_dark = 2131034242;
 			
 			// aapt resource value: 0x7F050083
-			public const int switch_thumb_disabled_material_light = 2131034243;
+			public const int secondary_text_default_material_light = 2131034243;
 			
 			// aapt resource value: 0x7F050084
-			public const int switch_thumb_material_dark = 2131034244;
+			public const int secondary_text_disabled_material_dark = 2131034244;
 			
 			// aapt resource value: 0x7F050085
-			public const int switch_thumb_material_light = 2131034245;
+			public const int secondary_text_disabled_material_light = 2131034245;
 			
 			// aapt resource value: 0x7F050086
-			public const int switch_thumb_normal_material_dark = 2131034246;
+			public const int switch_thumb_disabled_material_dark = 2131034246;
 			
 			// aapt resource value: 0x7F050087
-			public const int switch_thumb_normal_material_light = 2131034247;
+			public const int switch_thumb_disabled_material_light = 2131034247;
 			
 			// aapt resource value: 0x7F050088
-			public const int tooltip_background_dark = 2131034248;
+			public const int switch_thumb_material_dark = 2131034248;
 			
 			// aapt resource value: 0x7F050089
-			public const int tooltip_background_light = 2131034249;
+			public const int switch_thumb_material_light = 2131034249;
+			
+			// aapt resource value: 0x7F05008A
+			public const int switch_thumb_normal_material_dark = 2131034250;
+			
+			// aapt resource value: 0x7F05008B
+			public const int switch_thumb_normal_material_light = 2131034251;
+			
+			// aapt resource value: 0x7F05008C
+			public const int tooltip_background_dark = 2131034252;
+			
+			// aapt resource value: 0x7F05008D
+			public const int tooltip_background_light = 2131034253;
 			
 			static Color()
 			{
@@ -3267,115 +4981,133 @@ namespace TestApp
 			public const int avd_show_password = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int btn_checkbox_checked_mtrl = 2131165278;
+			public const int bank_uptime_bg = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165279;
+			public const int btn_checkbox_checked_mtrl = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int btn_checkbox_unchecked_mtrl = 2131165280;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165281;
+			public const int btn_checkbox_unchecked_mtrl = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int btn_radio_off_mtrl = 2131165282;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165283;
+			public const int btn_radio_off_mtrl = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int btn_radio_on_mtrl = 2131165284;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165285;
+			public const int btn_radio_on_mtrl = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int design_bottom_navigation_item_background = 2131165286;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int design_fab_background = 2131165287;
+			public const int design_bottom_navigation_item_background = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int design_ic_visibility = 2131165288;
+			public const int design_fab_background = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int design_ic_visibility_off = 2131165289;
+			public const int design_ic_visibility = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int design_password_eye = 2131165290;
+			public const int design_ic_visibility_off = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int design_snackbar_background = 2131165291;
+			public const int design_password_eye = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int dotted_circle_shape = 2131165292;
+			public const int design_snackbar_background = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int dotted_progress = 2131165293;
+			public const int dotted_circle_shape = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int ic_mtrl_chip_checked_black = 2131165294;
+			public const int dotted_progress = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int ic_mtrl_chip_checked_circle = 2131165295;
+			public const int faint_pink_border = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int ic_mtrl_chip_close_circle = 2131165296;
+			public const int ic_arrow_clockwise = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int ic_test = 2131165297;
+			public const int ic_arrow_right_black = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int mtrl_snackbar_background = 2131165298;
+			public const int ic_mtrl_chip_checked_black = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int mtrl_tabs_default_indicator = 2131165299;
+			public const int ic_mtrl_chip_checked_circle = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int navigation_empty_icon = 2131165300;
+			public const int ic_mtrl_chip_close_circle = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int notification_action_background = 2131165301;
+			public const int ic_search = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int notification_bg = 2131165302;
+			public const int ic_test = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int notification_bg_low = 2131165303;
+			public const int mtrl_snackbar_background = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int notification_bg_low_normal = 2131165304;
+			public const int mtrl_tabs_default_indicator = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int notification_bg_low_pressed = 2131165305;
+			public const int navigation_empty_icon = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int notification_bg_normal = 2131165306;
+			public const int notification_action_background = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int notification_bg_normal_pressed = 2131165307;
+			public const int notification_bg = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int notification_icon_background = 2131165308;
+			public const int notification_bg_low = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int notification_template_icon_bg = 2131165309;
+			public const int notification_bg_low_normal = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int notification_template_icon_low_bg = 2131165310;
+			public const int notification_bg_low_pressed = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int notification_tile_bg = 2131165311;
+			public const int notification_bg_normal = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int notify_panel_notification_icon_bg = 2131165312;
+			public const int notification_bg_normal_pressed = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int tooltip_frame_dark = 2131165313;
+			public const int notification_icon_background = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int tooltip_frame_light = 2131165314;
+			public const int notification_template_icon_bg = 2131165314;
+			
+			// aapt resource value: 0x7F070083
+			public const int notification_template_icon_low_bg = 2131165315;
+			
+			// aapt resource value: 0x7F070084
+			public const int notification_tile_bg = 2131165316;
+			
+			// aapt resource value: 0x7F070085
+			public const int notify_panel_notification_icon_bg = 2131165317;
+			
+			// aapt resource value: 0x7F070086
+			public const int search_view_curve = 2131165318;
+			
+			// aapt resource value: 0x7F070087
+			public const int tooltip_frame_dark = 2131165319;
+			
+			// aapt resource value: 0x7F070088
+			public const int tooltip_frame_light = 2131165320;
 			
 			static Drawable()
 			{
@@ -3562,571 +5294,595 @@ namespace TestApp
 			public const int always = 2131230781;
 			
 			// aapt resource value: 0x7F08003E
-			public const int async = 2131230782;
+			public const int arrow_end = 2131230782;
 			
 			// aapt resource value: 0x7F08003F
-			public const int auto = 2131230783;
+			public const int async = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int autoCompleteTextView = 2131230784;
+			public const int auto = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int beginning = 2131230785;
+			public const int autoCompleteTextView = 2131230785;
 			
 			// aapt resource value: 0x7F080042
-			public const int blocking = 2131230786;
+			public const int beginning = 2131230786;
 			
 			// aapt resource value: 0x7F080043
-			public const int bottom = 2131230787;
+			public const int blocking = 2131230787;
 			
 			// aapt resource value: 0x7F080044
-			public const int browser_actions_header_text = 2131230788;
-			
-			// aapt resource value: 0x7F080047
-			public const int browser_actions_menu_items = 2131230791;
+			public const int bottom = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int browser_actions_menu_item_icon = 2131230789;
-			
-			// aapt resource value: 0x7F080046
-			public const int browser_actions_menu_item_text = 2131230790;
+			public const int browser_actions_header_text = 2131230789;
 			
 			// aapt resource value: 0x7F080048
-			public const int browser_actions_menu_view = 2131230792;
+			public const int browser_actions_menu_items = 2131230792;
+			
+			// aapt resource value: 0x7F080046
+			public const int browser_actions_menu_item_icon = 2131230790;
+			
+			// aapt resource value: 0x7F080047
+			public const int browser_actions_menu_item_text = 2131230791;
 			
 			// aapt resource value: 0x7F080049
-			public const int buttonPanel = 2131230793;
+			public const int browser_actions_menu_view = 2131230793;
 			
 			// aapt resource value: 0x7F08004A
-			public const int center = 2131230794;
+			public const int buttonPanel = 2131230794;
 			
 			// aapt resource value: 0x7F08004B
-			public const int center_horizontal = 2131230795;
+			public const int card = 2131230795;
 			
 			// aapt resource value: 0x7F08004C
-			public const int center_vertical = 2131230796;
+			public const int center = 2131230796;
 			
 			// aapt resource value: 0x7F08004D
-			public const int checkbox = 2131230797;
+			public const int center_horizontal = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int @checked = 2131230798;
+			public const int center_vertical = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int chronometer = 2131230799;
+			public const int checkbox = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int circularProgressBar = 2131230800;
+			public const int @checked = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int clip_horizontal = 2131230801;
+			public const int chronometer = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int clip_vertical = 2131230802;
+			public const int circularProgressBar = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int collapseActionView = 2131230803;
+			public const int clip_horizontal = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int container = 2131230804;
+			public const int clip_vertical = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int content = 2131230805;
+			public const int collapseActionView = 2131230805;
 			
 			// aapt resource value: 0x7F080056
-			public const int contentPanel = 2131230806;
+			public const int container = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int coordinator = 2131230807;
+			public const int content = 2131230807;
+			
+			// aapt resource value: 0x7F080058
+			public const int contentPanel = 2131230808;
+			
+			// aapt resource value: 0x7F080059
+			public const int coordinator = 2131230809;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F080058
-			public const int custom = 2131230808;
-			
-			// aapt resource value: 0x7F080059
-			public const int customPanel = 2131230809;
-			
 			// aapt resource value: 0x7F08005A
-			public const int decor_content_parent = 2131230810;
+			public const int custom = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int default_activity_button = 2131230811;
+			public const int customPanel = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int design_bottom_sheet = 2131230812;
+			public const int decor_content_parent = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int design_menu_item_action_area = 2131230813;
+			public const int default_activity_button = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int design_menu_item_action_area_stub = 2131230814;
+			public const int design_bottom_sheet = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int design_menu_item_text = 2131230815;
+			public const int design_menu_item_action_area = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int design_navigation_view = 2131230816;
+			public const int design_menu_item_action_area_stub = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int dialog_button = 2131230817;
+			public const int design_menu_item_text = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int disableHome = 2131230818;
+			public const int design_navigation_view = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int edit_query = 2131230819;
+			public const int dialog_button = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int end = 2131230820;
+			public const int disableHome = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int enterAlways = 2131230821;
+			public const int edit_query = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int enterAlwaysCollapsed = 2131230822;
+			public const int end = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int exitUntilCollapsed = 2131230823;
-			
-			// aapt resource value: 0x7F080069
-			public const int expanded_menu = 2131230825;
+			public const int enterAlways = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int expand_activities_button = 2131230824;
+			public const int enterAlwaysCollapsed = 2131230824;
 			
-			// aapt resource value: 0x7F08006A
-			public const int fill = 2131230826;
-			
-			// aapt resource value: 0x7F08006D
-			public const int filled = 2131230829;
+			// aapt resource value: 0x7F080069
+			public const int exitUntilCollapsed = 2131230825;
 			
 			// aapt resource value: 0x7F08006B
-			public const int fill_horizontal = 2131230827;
+			public const int expanded_menu = 2131230827;
+			
+			// aapt resource value: 0x7F08006A
+			public const int expand_activities_button = 2131230826;
 			
 			// aapt resource value: 0x7F08006C
-			public const int fill_vertical = 2131230828;
-			
-			// aapt resource value: 0x7F08006E
-			public const int @fixed = 2131230830;
+			public const int fill = 2131230828;
 			
 			// aapt resource value: 0x7F08006F
-			public const int forever = 2131230831;
+			public const int filled = 2131230831;
+			
+			// aapt resource value: 0x7F08006D
+			public const int fill_horizontal = 2131230829;
+			
+			// aapt resource value: 0x7F08006E
+			public const int fill_vertical = 2131230830;
 			
 			// aapt resource value: 0x7F080070
-			public const int fragment_container_view_tag = 2131230832;
+			public const int @fixed = 2131230832;
+			
+			// aapt resource value: 0x7F080071
+			public const int forever = 2131230833;
+			
+			// aapt resource value: 0x7F080072
+			public const int fragment_container_view_tag = 2131230834;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F080071
-			public const int ghost_view = 2131230833;
-			
-			// aapt resource value: 0x7F080072
-			public const int ghost_view_holder = 2131230834;
-			
 			// aapt resource value: 0x7F080073
-			public const int group_divider = 2131230835;
+			public const int ghost_view = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int home = 2131230836;
+			public const int ghost_view_holder = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int homeAsUp = 2131230837;
+			public const int group_divider = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int icon = 2131230838;
+			public const int home = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int icon_group = 2131230839;
+			public const int homeAsUp = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int ifRoom = 2131230840;
+			public const int icon = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int image = 2131230841;
+			public const int icon_group = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int img = 2131230842;
+			public const int ifRoom = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int info = 2131230843;
+			public const int image = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int italic = 2131230844;
+			public const int img = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int item_touch_helper_previous_elevation = 2131230845;
+			public const int info = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int labeled = 2131230846;
+			public const int italic = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int largeLabel = 2131230847;
+			public const int item_touch_helper_previous_elevation = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int left = 2131230848;
+			public const int labeled = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int line1 = 2131230849;
+			public const int largeLabel = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int line3 = 2131230850;
+			public const int left = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int listMode = 2131230851;
+			public const int line1 = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int list_item = 2131230852;
+			public const int line3 = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int logoImageView = 2131230853;
+			public const int listMode = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int masked = 2131230854;
+			public const int listView = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int message = 2131230855;
+			public const int list_item = 2131230855;
+			
+			// aapt resource value: 0x7F080088
+			public const int logoImageView = 2131230856;
+			
+			// aapt resource value: 0x7F080089
+			public const int masked = 2131230857;
+			
+			// aapt resource value: 0x7F08008A
+			public const int message = 2131230858;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F080088
-			public const int middle = 2131230856;
-			
-			// aapt resource value: 0x7F080089
-			public const int mini = 2131230857;
-			
-			// aapt resource value: 0x7F08008A
-			public const int mtrl_child_content_container = 2131230858;
-			
 			// aapt resource value: 0x7F08008B
-			public const int mtrl_internal_children_alpha_tag = 2131230859;
+			public const int middle = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int multiply = 2131230860;
+			public const int mini = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int navigation_header_container = 2131230861;
+			public const int mtrl_child_content_container = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int never = 2131230862;
+			public const int mtrl_internal_children_alpha_tag = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int none = 2131230863;
+			public const int multiply = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int normal = 2131230864;
+			public const int myImageView = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int notification_background = 2131230865;
+			public const int navigation_header_container = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int notification_main_column = 2131230866;
+			public const int never = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int notification_main_column_container = 2131230867;
+			public const int none = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int nxt_btn = 2131230868;
+			public const int normal = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int off = 2131230869;
+			public const int notification_background = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int on = 2131230870;
+			public const int notification_main_column = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int outline = 2131230871;
+			public const int notification_main_column_container = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int parallax = 2131230872;
+			public const int nxt_btn = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int parentPanel = 2131230873;
+			public const int off = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int parent_matrix = 2131230874;
+			public const int on = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int pin = 2131230875;
+			public const int outline = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int progressBar = 2131230876;
+			public const int parallax = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int progress_circular = 2131230877;
+			public const int parentPanel = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int progress_horizontal = 2131230878;
+			public const int parent_matrix = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int progress_message = 2131230879;
+			public const int pin = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int progress_view = 2131230880;
+			public const int prediction_rv = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int radio = 2131230881;
+			public const int progressBar = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int right = 2131230882;
+			public const int progress_circular = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int right_icon = 2131230883;
+			public const int progress_horizontal = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int right_side = 2131230884;
+			public const int progress_message = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int save_non_transition_alpha = 2131230885;
+			public const int progress_view = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int save_overlay_view = 2131230886;
+			public const int radio = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int screen = 2131230887;
+			public const int right = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int scroll = 2131230888;
-			
-			// aapt resource value: 0x7F0800AC
-			public const int scrollable = 2131230892;
+			public const int right_icon = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int scrollIndicatorDown = 2131230889;
+			public const int right_side = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int scrollIndicatorUp = 2131230890;
+			public const int rrr = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int scrollView = 2131230891;
+			public const int save_non_transition_alpha = 2131230891;
+			
+			// aapt resource value: 0x7F0800AC
+			public const int save_overlay_view = 2131230892;
 			
 			// aapt resource value: 0x7F0800AD
-			public const int search_badge = 2131230893;
+			public const int screen = 2131230893;
 			
 			// aapt resource value: 0x7F0800AE
-			public const int search_bar = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int search_button = 2131230895;
-			
-			// aapt resource value: 0x7F0800B0
-			public const int search_close_btn = 2131230896;
-			
-			// aapt resource value: 0x7F0800B1
-			public const int search_edit_frame = 2131230897;
+			public const int scroll = 2131230894;
 			
 			// aapt resource value: 0x7F0800B2
-			public const int search_go_btn = 2131230898;
+			public const int scrollable = 2131230898;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int scrollIndicatorDown = 2131230895;
+			
+			// aapt resource value: 0x7F0800B0
+			public const int scrollIndicatorUp = 2131230896;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int scrollView = 2131230897;
 			
 			// aapt resource value: 0x7F0800B3
-			public const int search_mag_icon = 2131230899;
+			public const int search_badge = 2131230899;
 			
 			// aapt resource value: 0x7F0800B4
-			public const int search_plate = 2131230900;
+			public const int search_bar = 2131230900;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int search_src_text = 2131230901;
+			public const int search_button = 2131230901;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int search_voice_btn = 2131230902;
-			
-			// aapt resource value: 0x7F0800B8
-			public const int selected = 2131230904;
+			public const int search_close_btn = 2131230902;
 			
 			// aapt resource value: 0x7F0800B7
-			public const int select_dialog_listview = 2131230903;
+			public const int search_edit = 2131230903;
+			
+			// aapt resource value: 0x7F0800B8
+			public const int search_edit_frame = 2131230904;
+			
+			// aapt resource value: 0x7F0800B9
+			public const int search_go_btn = 2131230905;
+			
+			// aapt resource value: 0x7F0800BA
+			public const int search_mag_icon = 2131230906;
+			
+			// aapt resource value: 0x7F0800BB
+			public const int search_plate = 2131230907;
+			
+			// aapt resource value: 0x7F0800BC
+			public const int search_src_text = 2131230908;
+			
+			// aapt resource value: 0x7F0800BD
+			public const int search_voice_btn = 2131230909;
+			
+			// aapt resource value: 0x7F0800BF
+			public const int selected = 2131230911;
+			
+			// aapt resource value: 0x7F0800BE
+			public const int select_dialog_listview = 2131230910;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F0800B9
-			public const int shortcut = 2131230905;
-			
-			// aapt resource value: 0x7F0800BA
-			public const int showCustom = 2131230906;
-			
-			// aapt resource value: 0x7F0800BB
-			public const int showHome = 2131230907;
-			
-			// aapt resource value: 0x7F0800BC
-			public const int showTitle = 2131230908;
-			
-			// aapt resource value: 0x7F0800BD
-			public const int smallLabel = 2131230909;
-			
-			// aapt resource value: 0x7F0800BE
-			public const int snackbar_action = 2131230910;
-			
-			// aapt resource value: 0x7F0800BF
-			public const int snackbar_text = 2131230911;
-			
 			// aapt resource value: 0x7F0800C0
-			public const int snap = 2131230912;
+			public const int shortcut = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int snapMargins = 2131230913;
+			public const int showCustom = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int spacer = 2131230914;
+			public const int showHome = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int split_action_bar = 2131230915;
+			public const int showTitle = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int src_atop = 2131230916;
+			public const int smallLabel = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int src_in = 2131230917;
+			public const int snackbar_action = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int src_over = 2131230918;
+			public const int snackbar_text = 2131230918;
 			
 			// aapt resource value: 0x7F0800C7
-			public const int start = 2131230919;
+			public const int snap = 2131230919;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int stretch = 2131230920;
+			public const int snapMargins = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int submenuarrow = 2131230921;
+			public const int spacer = 2131230921;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int submit_area = 2131230922;
+			public const int split_action_bar = 2131230922;
+			
+			// aapt resource value: 0x7F0800CB
+			public const int src_atop = 2131230923;
+			
+			// aapt resource value: 0x7F0800CC
+			public const int src_in = 2131230924;
+			
+			// aapt resource value: 0x7F0800CD
+			public const int src_over = 2131230925;
+			
+			// aapt resource value: 0x7F0800CE
+			public const int start = 2131230926;
+			
+			// aapt resource value: 0x7F0800CF
+			public const int stretch = 2131230927;
+			
+			// aapt resource value: 0x7F0800D0
+			public const int submenuarrow = 2131230928;
+			
+			// aapt resource value: 0x7F0800D1
+			public const int submit_area = 2131230929;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800CB
-			public const int tabMode = 2131230923;
-			
-			// aapt resource value: 0x7F0800CC
-			public const int tag_accessibility_actions = 2131230924;
-			
-			// aapt resource value: 0x7F0800CD
-			public const int tag_accessibility_clickable_spans = 2131230925;
-			
-			// aapt resource value: 0x7F0800CE
-			public const int tag_accessibility_heading = 2131230926;
-			
-			// aapt resource value: 0x7F0800CF
-			public const int tag_accessibility_pane_title = 2131230927;
-			
-			// aapt resource value: 0x7F0800D0
-			public const int tag_screen_reader_focusable = 2131230928;
-			
-			// aapt resource value: 0x7F0800D1
-			public const int tag_transition_group = 2131230929;
-			
 			// aapt resource value: 0x7F0800D2
-			public const int tag_unhandled_key_event_manager = 2131230930;
+			public const int tabMode = 2131230930;
 			
 			// aapt resource value: 0x7F0800D3
-			public const int tag_unhandled_key_listeners = 2131230931;
+			public const int tag_accessibility_actions = 2131230931;
 			
 			// aapt resource value: 0x7F0800D4
-			public const int text = 2131230932;
+			public const int tag_accessibility_clickable_spans = 2131230932;
 			
 			// aapt resource value: 0x7F0800D5
-			public const int text2 = 2131230933;
-			
-			// aapt resource value: 0x7F0800DC
-			public const int textinput_counter = 2131230940;
-			
-			// aapt resource value: 0x7F0800DD
-			public const int textinput_error = 2131230941;
-			
-			// aapt resource value: 0x7F0800DE
-			public const int textinput_helper_text = 2131230942;
+			public const int tag_accessibility_heading = 2131230933;
 			
 			// aapt resource value: 0x7F0800D6
-			public const int textSpacerNoButtons = 2131230934;
+			public const int tag_accessibility_pane_title = 2131230934;
 			
 			// aapt resource value: 0x7F0800D7
-			public const int textSpacerNoTitle = 2131230935;
+			public const int tag_screen_reader_focusable = 2131230935;
 			
 			// aapt resource value: 0x7F0800D8
-			public const int textStart = 2131230936;
+			public const int tag_transition_group = 2131230936;
 			
 			// aapt resource value: 0x7F0800D9
-			public const int textViewItem = 2131230937;
+			public const int tag_unhandled_key_event_manager = 2131230937;
 			
 			// aapt resource value: 0x7F0800DA
-			public const int textViewItem_ii = 2131230938;
+			public const int tag_unhandled_key_listeners = 2131230938;
 			
 			// aapt resource value: 0x7F0800DB
-			public const int text_input_password_toggle = 2131230939;
+			public const int text = 2131230939;
 			
-			// aapt resource value: 0x7F0800DF
-			public const int time = 2131230943;
-			
-			// aapt resource value: 0x7F0800E0
-			public const int title = 2131230944;
-			
-			// aapt resource value: 0x7F0800E1
-			public const int titleDividerNoCustom = 2131230945;
-			
-			// aapt resource value: 0x7F0800E2
-			public const int title_template = 2131230946;
+			// aapt resource value: 0x7F0800DC
+			public const int text2 = 2131230940;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int top = 2131230947;
+			public const int textinput_counter = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int topPanel = 2131230948;
+			public const int textinput_error = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int touch_outside = 2131230949;
+			public const int textinput_helper_text = 2131230949;
+			
+			// aapt resource value: 0x7F0800DD
+			public const int textSpacerNoButtons = 2131230941;
+			
+			// aapt resource value: 0x7F0800DE
+			public const int textSpacerNoTitle = 2131230942;
+			
+			// aapt resource value: 0x7F0800DF
+			public const int textStart = 2131230943;
+			
+			// aapt resource value: 0x7F0800E0
+			public const int textViewItem = 2131230944;
+			
+			// aapt resource value: 0x7F0800E1
+			public const int textViewItem_ii = 2131230945;
+			
+			// aapt resource value: 0x7F0800E2
+			public const int text_input_password_toggle = 2131230946;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int transition_current_scene = 2131230950;
+			public const int time = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int transition_layout_save = 2131230951;
+			public const int title = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int transition_position = 2131230952;
+			public const int titleDividerNoCustom = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int transition_scene_layoutid_cache = 2131230953;
+			public const int title_template = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int transition_transform = 2131230954;
+			public const int top = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int @unchecked = 2131230955;
+			public const int topPanel = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int uniform = 2131230956;
+			public const int touch_outside = 2131230956;
 			
 			// aapt resource value: 0x7F0800ED
-			public const int unlabeled = 2131230957;
+			public const int transition_current_scene = 2131230957;
 			
 			// aapt resource value: 0x7F0800EE
-			public const int up = 2131230958;
+			public const int transition_layout_save = 2131230958;
 			
 			// aapt resource value: 0x7F0800EF
-			public const int useLogo = 2131230959;
+			public const int transition_position = 2131230959;
 			
 			// aapt resource value: 0x7F0800F0
-			public const int view_offset_helper = 2131230960;
+			public const int transition_scene_layoutid_cache = 2131230960;
 			
 			// aapt resource value: 0x7F0800F1
-			public const int view_tree_saved_state_registry_owner = 2131230961;
+			public const int transition_transform = 2131230961;
 			
 			// aapt resource value: 0x7F0800F2
-			public const int visible = 2131230962;
+			public const int @unchecked = 2131230962;
 			
 			// aapt resource value: 0x7F0800F3
-			public const int visible_removing_fragment_view_tag = 2131230963;
+			public const int uniform = 2131230963;
 			
 			// aapt resource value: 0x7F0800F4
-			public const int withText = 2131230964;
+			public const int unlabeled = 2131230964;
 			
 			// aapt resource value: 0x7F0800F5
-			public const int wrap_content = 2131230965;
+			public const int up = 2131230965;
+			
+			// aapt resource value: 0x7F0800F6
+			public const int useLogo = 2131230966;
+			
+			// aapt resource value: 0x7F0800F7
+			public const int value = 2131230967;
+			
+			// aapt resource value: 0x7F0800F8
+			public const int view_offset_helper = 2131230968;
+			
+			// aapt resource value: 0x7F0800F9
+			public const int view_tree_saved_state_registry_owner = 2131230969;
+			
+			// aapt resource value: 0x7F0800FA
+			public const int visible = 2131230970;
+			
+			// aapt resource value: 0x7F0800FB
+			public const int visible_removing_fragment_view_tag = 2131230971;
+			
+			// aapt resource value: 0x7F0800FC
+			public const int withText = 2131230972;
+			
+			// aapt resource value: 0x7F0800FD
+			public const int wrap_content = 2131230973;
 			
 			static Id()
 			{
@@ -4425,6 +6181,9 @@ namespace TestApp
 			// aapt resource value: 0x7F0B003B
 			public const int support_simple_spinner_dropdown_item = 2131427387;
 			
+			// aapt resource value: 0x7F0B003C
+			public const int test_layout = 2131427388;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -4578,31 +6337,34 @@ namespace TestApp
 			public const int fallback_menu_item_share_link = 2131558438;
 			
 			// aapt resource value: 0x7F0D0027
-			public const int hide_bottom_view_on_scroll_behavior = 2131558439;
+			public const int hello = 2131558439;
 			
 			// aapt resource value: 0x7F0D0028
-			public const int mtrl_chip_close_icon_content_description = 2131558440;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558440;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int password_toggle_content_description = 2131558441;
+			public const int mtrl_chip_close_icon_content_description = 2131558441;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int path_password_eye = 2131558442;
+			public const int password_toggle_content_description = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int path_password_eye_mask_strike_through = 2131558443;
+			public const int path_password_eye = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int path_password_eye_mask_visible = 2131558444;
+			public const int path_password_eye_mask_strike_through = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int path_password_strike_through = 2131558445;
+			public const int path_password_eye_mask_visible = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int search_menu_title = 2131558446;
+			public const int path_password_strike_through = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int status_bar_notification_info_overflow = 2131558447;
+			public const int search_menu_title = 2131558447;
+			
+			// aapt resource value: 0x7F0D0030
+			public const int status_bar_notification_info_overflow = 2131558448;
 			
 			static String()
 			{

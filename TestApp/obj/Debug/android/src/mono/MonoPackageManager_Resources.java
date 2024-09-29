@@ -3,6 +3,9 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "TestApp.dll" comes first in this list. */
 		"TestApp.dll",
+		"AccountNumberPredictionLibrary2.dll",
+		"Jsr305Binding.dll",
+		"org.tensorflow.tensorflow-lite-api.dll",
 		"PhoneNumbers.dll",
 		"System.Collections.Immutable.dll",
 		"Xamarin.AndroidX.Activity.dll",
@@ -43,9 +46,17 @@ public class MonoPackageManager_Resources {
 		"Xamarin.AndroidX.VectorDrawable.dll",
 		"Xamarin.AndroidX.VersionedParcelable.dll",
 		"Xamarin.AndroidX.ViewPager.dll",
+		"Xamarin.AopAlliance.dll",
 		"Xamarin.Essentials.dll",
 		"Xamarin.Google.Android.Material.dll",
+		"Xamarin.Google.ErrorProne.Annotations.dll",
+		"Xamarin.Google.Guava.dll",
+		"Xamarin.Google.Guava.FailureAccess.dll",
 		"Xamarin.Google.Guava.ListenableFuture.dll",
+		"Xamarin.Google.Inject.Guice.dll",
+		"Xamarin.JavaX.Inject.dll",
+		"Xamarin.OW2.ASM.dll",
+		"Xamarin.TensorFlow.Lite.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

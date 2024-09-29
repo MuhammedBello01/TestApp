@@ -1,3 +1,6 @@
+AccountNumberPredictionLibrary2.dll
+Jsr305Binding.dll
+org.tensorflow.tensorflow-lite-api.dll
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Annotation.dll
 Xamarin.AndroidX.AppCompat.AppCompatResources.dll
@@ -36,9 +39,16 @@ Xamarin.AndroidX.VectorDrawable.Animated.dll
 Xamarin.AndroidX.VectorDrawable.dll
 Xamarin.AndroidX.VersionedParcelable.dll
 Xamarin.AndroidX.ViewPager.dll
+Xamarin.AopAlliance.dll
 Xamarin.Essentials.dll
 Xamarin.Google.Android.Material.dll
+Xamarin.Google.ErrorProne.Annotations.dll
+Xamarin.Google.Guava.FailureAccess.dll
 Xamarin.Google.Guava.ListenableFuture.dll
+Xamarin.Google.Inject.Guice.dll
+Xamarin.JavaX.Inject.dll
+Xamarin.OW2.ASM.dll
+Xamarin.TensorFlow.Lite.dll
 androidx.versionedparcelable.versionedparcelable.aar
 androidx.lifecycle.lifecycle-runtime.aar
 androidx.core.core.aar

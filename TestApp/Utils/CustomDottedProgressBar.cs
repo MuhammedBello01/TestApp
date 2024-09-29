@@ -22,6 +22,7 @@ namespace TestApp.Utils
         private float _maxDotSize = 20f; // Maximum dot size, default
 
         private Paint _paint;
+        private bool isRunning = true;
 
         public CustomDottedProgressBar(Context context, IAttributeSet attrs) : base(context, attrs)
         {
@@ -42,9 +43,32 @@ namespace TestApp.Utils
 
         private void Update()
         {
+            if (!isRunning) return;
             _currentAngle += _angleIncrement; // Adjust the speed by controlling angle increment
             Invalidate();
             _handler.PostDelayed(_updateAction, _updateDelay); // Continue the loop with the specified delay
+        }
+
+
+        public void Start()
+        {
+            if (isRunning) return; // Don't start again if already animating
+            isRunning = true;       // Set to true when the animation starts
+            if (_handler == null)
+            {
+                _handler = new Handler(Looper.MainLooper);  // Initialize the handler if it's null
+            }
+            _handler.PostDelayed(_updateAction, _updateDelay); // Start the update cycle
+        }
+
+        public void Stop()
+        {          
+            if (isRunning) // Check if currently running
+            {
+                isRunning = false;
+                _handler.RemoveCallbacks(_updateAction); // Stop the updates
+               
+            }
         }
 
         // Public properties to control the behavior from outside the class

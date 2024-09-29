@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7dsff2P7tsGdYe8Bx0k+y5QwCEnPBrzSOOnCeWvFIiwpFiiwbxEhFXL2zMQdzlcJ3BCdzVh2q8BvJts8zGYEJA==",
+  "dgSpecHash": "7Y28Hlrg4K7XirHZjov0JbA3juSUc5bWZnRkgDeZnjEOztM1xjBhdqcwPe9fOLhOS4pYalkEMnwA6VjA+Mbifw==",
   "success": true,
-  "projectFilePath": "/Users/wema/Projects/TestApp/TestApp/TestApp.csproj",
+  "projectFilePath": "/Users/wema/TestApp/TestApp/TestApp.csproj",
   "expectedPackageFiles": [
     "/Users/wema/.nuget/packages/libphonenumber-csharp/8.13.45/libphonenumber-csharp.8.13.45.nupkg.sha512",
     "/Users/wema/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
@@ -47,9 +47,21 @@
     "/Users/wema/.nuget/packages/xamarin.androidx.vectordrawable.animated/1.1.0.5/xamarin.androidx.vectordrawable.animated.1.1.0.5.nupkg.sha512",
     "/Users/wema/.nuget/packages/xamarin.androidx.versionedparcelable/1.1.1.5/xamarin.androidx.versionedparcelable.1.1.1.5.nupkg.sha512",
     "/Users/wema/.nuget/packages/xamarin.androidx.viewpager/1.0.0.5/xamarin.androidx.viewpager.1.0.0.5.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.aopalliance/1.0.0/xamarin.aopalliance.1.0.0.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.checkerframework.checkerqual/3.39.0.1/xamarin.checkerframework.checkerqual.3.39.0.1.nupkg.sha512",
     "/Users/wema/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
     "/Users/wema/.nuget/packages/xamarin.google.android.material/1.0.0.1/xamarin.google.android.material.1.0.0.1.nupkg.sha512",
-    "/Users/wema/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
+    "/Users/wema/.nuget/packages/xamarin.google.code.findbugs.jsr305/3.0.2.9/xamarin.google.code.findbugs.jsr305.3.0.2.9.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.google.errorprone.annotations/2.21.1/xamarin.google.errorprone.annotations.2.21.1.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.google.guava/32.0.1/xamarin.google.guava.32.0.1.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.google.guava.failureaccess/1.0.2/xamarin.google.guava.failureaccess.1.0.2.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.google.guava.listenablefuture/9999.0.0/xamarin.google.guava.listenablefuture.9999.0.0.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.google.inject.guice/5.1.0/xamarin.google.inject.guice.5.1.0.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.google.j2objc.annotations/2.8.0.6/xamarin.google.j2objc.annotations.2.8.0.6.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.javax.inject/1.0.0.12/xamarin.javax.inject.1.0.0.12.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.ow2.asm/9.2.0/xamarin.ow2.asm.9.2.0.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.tensorflow.lite/2.15.0/xamarin.tensorflow.lite.2.15.0.nupkg.sha512",
+    "/Users/wema/.nuget/packages/xamarin.tensorflow.lite.api/2.15.0/xamarin.tensorflow.lite.api.2.15.0.nupkg.sha512"
   ],
   "logs": []
 }

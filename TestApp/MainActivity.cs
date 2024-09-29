@@ -1,13 +1,19 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AccountNumberPredictionLibrary2;
+using Android.Animation;
 using Android.App;
 using Android.Content;
+using Android.Gestures;
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
+using Android.Views.Animations;
 using Android.Widget;
 using AndroidX.AppCompat.App;
+using AndroidX.RecyclerView.Widget;
 using Google.Android.Material.TextField;
 using TestApp.Adapters;
 using TestApp.Models;
@@ -25,6 +31,14 @@ namespace TestApp
         private Button NextBtn;
         private RelativeLayout ProgressView;
         private CustomDottedProgressBar progressBar;
+        private List<User> user;
+        private RecyclerView PredictionRv;
+        private ListView listView;
+        private ItemAdapter itemAdapter;
+        private EditText editText;
+        private ImageView myImageView;
+        ObjectAnimator rotateAnimation;
+        bool isAnimating = false;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -33,17 +47,65 @@ namespace TestApp
             SetContentView(Resource.Layout.activity_main);
 
             autoCompleteTextView = FindViewById<AutoCompleteTextView>(Resource.Id.autoCompleteTextView);
+            autoCompleteTextView.VerticalScrollBarEnabled = true; // Enable vertical scroll bar
+            autoCompleteTextView.ScrollBarStyle = ScrollbarStyles.InsideInset;
+            //autoCompleteTextView.DropDownHeight = 400;
+            //autoCompleteTextView.DropDownWidth = ViewGroup.LayoutParams.MatchParent;
+
             NextBtn = FindViewById<Button>(Resource.Id.nxt_btn);
             ProgressView = FindViewById<RelativeLayout>(Resource.Id.progress_view);
             progressBar = FindViewById<CustomDottedProgressBar>(Resource.Id.progressBar);
             clipboard = (ClipboardManager)GetSystemService(ClipboardService);
             NextBtn.Click += NextBtn_Click;
+            MLInterpreterHelper.Instance.Initialize(this);
+
+            PredictionRv = FindViewById<RecyclerView>(Resource.Id.prediction_rv);
+            listView = FindViewById<ListView>(Resource.Id.listView);
 
             progressBar.Speed = 2; // Set speed of rotation
             progressBar.FrameRate = 5; // Set frame rate for smoother/faster updates. The lower the better
             progressBar.DotCount = 8; // More dots for denser circle
             progressBar.MinDotSize = 2f; // Minimum size of dots
             progressBar.MaxDotSize = 7f; // Maximum size of dots
+            progressBar.Stop();
+            editText = FindViewById<EditText>(Resource.Id.search_edit);
+            editText.SetCompoundDrawablesWithIntrinsicBounds(Resource.Drawable.ic_search, 0, 0, 0);
+
+            editText.TextChanged += (sender, e) =>
+            {
+                if (!string.IsNullOrEmpty(editText.Text))
+                {
+                    editText.SetCompoundDrawablesWithIntrinsicBounds(0, 0, Resource.Drawable.abc_ic_clear_material, 0);
+                }
+                else
+                {
+                    editText.SetCompoundDrawablesWithIntrinsicBounds(Resource.Drawable.ic_search, 0, 0, 0);
+                }
+            };
+
+            // Find the ImageView in the layout
+            myImageView = FindViewById<ImageView>(Resource.Id.myImageView);
+            rotateAnimation = ObjectAnimator.OfFloat(myImageView, "rotation", 0f, 360f);
+            rotateAnimation.SetDuration(500); // 1 second for a full rotation
+            rotateAnimation.RepeatCount = ValueAnimator.Infinite; // Infinite rotation
+            rotateAnimation.RepeatMode = ValueAnimatorRepeatMode.Restart;
+
+            // Set a click listener on the ImageView
+            myImageView.Click += (sender, e) =>
+            {
+                if (!isAnimating)
+                {
+                    // Start the animation
+                    rotateAnimation.Start();
+                    isAnimating = true;
+                }
+                else
+                {
+                    // Stop the animation
+                    rotateAnimation.Cancel();
+                    isAnimating = false;
+                }
+            };
 
             //var suggestions = new List<string>
             //{
@@ -52,8 +114,28 @@ namespace TestApp
             //var adapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleDropDownItem1Line, suggestions);
             //autoCompleteTextView.Adapter = adapter;
             DrawableClickEvent();
-            var user = new List<User>
+            user = new List<User>
             {
+                new User { AccountName = "Baba", AccountNumber = "0137906395" },
+                new User { AccountName = "Babamoh", AccountNumber = "0252898446" },
+                new User { AccountName = "Cashhoo", AccountNumber = "5594449016" },
+                new User { AccountName = "Carvana", AccountNumber = "0137906399" },
+                new User { AccountName = "Alfa", AccountNumber = "0252898447" },
+                new User { AccountName = "Baba", AccountNumber = "0137906395" },
+                new User { AccountName = "Babamoh", AccountNumber = "0252898446" },
+                new User { AccountName = "Cashhoo", AccountNumber = "5594449016" },
+                new User { AccountName = "Carvana", AccountNumber = "0137906399" },
+                new User { AccountName = "Alfa", AccountNumber = "0252898447" },
+                new User { AccountName = "Baba", AccountNumber = "0137906395" },
+                new User { AccountName = "Babamoh", AccountNumber = "0252898446" },
+                new User { AccountName = "Cashhoo", AccountNumber = "5594449016" },
+                new User { AccountName = "Carvana", AccountNumber = "0137906399" },
+                new User { AccountName = "Alfa", AccountNumber = "0252898447" },
+                new User { AccountName = "Baba", AccountNumber = "0137906395" },
+                new User { AccountName = "Babamoh", AccountNumber = "0252898446" },
+                new User { AccountName = "Cashhoo", AccountNumber = "5594449016" },
+                new User { AccountName = "Carvana", AccountNumber = "0137906399" },
+                new User { AccountName = "Alfa", AccountNumber = "0252898447" },
                 new User { AccountName = "Baba", AccountNumber = "0137906395" },
                 new User { AccountName = "Babamoh", AccountNumber = "0252898446" },
                 new User { AccountName = "Cashhoo", AccountNumber = "5594449016" },
@@ -61,46 +143,101 @@ namespace TestApp
                 new User { AccountName = "Alfa", AccountNumber = "0252898447" },
                 new User { AccountName = "Meezoh", AccountNumber = "5594449078" }
             };
-            var adapter = new ItemAdapter(this, user);
-            autoCompleteTextView.Adapter = adapter;
+            itemAdapter = new ItemAdapter(this, user);
+            autoCompleteTextView.Adapter = itemAdapter;
 
             autoCompleteTextView.ItemClick += (sender, e) =>
             {
-                var selectedItem = adapter.GetItem(e.Position);
-                autoCompleteTextView.Text = selectedItem.AccountNumber;
-                Toast.MakeText(this, "Selected: " + selectedItem.AccountNumber, ToastLength.Short).Show();
+               
             };
 
             autoCompleteTextView.TextChanged += (sender, e) =>
             {
                 //var filteredSuggestions = user.Where(s => s.AccountName.ToLower().Contains(autoCompleteTextView.Text.ToLower())).ToList();
+                //var filteredSuggestions = suggestions.Where(s => s.ToLower().Contains(autoCompleteTextView.Text.ToLower())).ToList();
                 //adapter.Clear();
                 //adapter.AddAll(filteredSuggestions);
                 //adapter.NotifyDataSetChanged();
+                autoCompleteTextView.ShowDropDown();
+                listView.Adapter = null;
                 if (!string.IsNullOrWhiteSpace(autoCompleteTextView.Text) && autoCompleteTextView.Text.Length == 10)
                 {
+                    //if (autoCompleteTextView.Adapter != null)
+                    //{
+                    //    autoCompleteTextView.Adapter = null; 
+                    //}
                     ShowDottedProgress();
                 }
             };
-
+            ProgressView.Visibility = ViewStates.Visible;
         }
 
         private async void ShowDottedProgress()
         {
-            ProgressView.Visibility = ViewStates.Visible;
+            autoCompleteTextView.ClearFocus();
+            //ProgressView.Visibility = ViewStates.Visible;
+            progressBar.Start();
 
             // Simulate fetching data (replace with actual API call)
             await Task.Delay(5000); // Simulate a delay (e.g., network call)
-
+           // progressBar.Stop();
             // Hide ProgressBar after data is fetched
-            ProgressView.Visibility = ViewStates.Gone;
+            //ProgressView.Visibility = ViewStates.Gone;
+            Console.WriteLine("delay done.............");
+            try
+            {
+                TFLiteModel model = new TFLiteModel(MLInterpreterHelper.Instance.GetInterpreter());
+                Console.WriteLine("Step 1.............");
+
+                IDictionary<string, string> predictions = model.Predict(autoCompleteTextView.Text.ToString());
+                Console.WriteLine($"Step 2.............{predictions}");
+
+                predictions.Add("Cant Find Bank?", "");
+
+                var displayList = predictions.Select(kvp => $"{kvp.Key}: {kvp.Value}").ToList();
+
+                var adapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleDropDownItem1Line, displayList);
+                listView.Adapter = adapter;
+                listView.ItemClick += (sender, e) =>
+                {
+                    // Get the clicked item
+                    string clickedItem = displayList[e.Position];
+                    Toast.MakeText(this, $"You clicked: {clickedItem}", ToastLength.Short).Show();
+                };
+
+                //itemAdapter = new ItemAdapter(this, user);
+                Console.WriteLine("Done.............");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Exception.............{ex}");
+                var adapter = new ItemAdapter(this, user);
+                autoCompleteTextView.Adapter = adapter;
+
+            }
+
         }
 
         private void NextBtn_Click(object sender, System.EventArgs e)
         {
+
+            if (!isAnimating)
+            {
+                progressBar.Start();
+                isAnimating = true;
+            }
+            else
+            {
+                progressBar.Stop();
+                isAnimating = false;
+            }
+           
+           
+            //rotateAnimation.Cancel();
+            //isAnimating = false;
             //SmallProgressBar();
             //LoadDataAsync();
-            ShowDottedProgress();
+            //ShowDottedProgress();
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
@@ -112,29 +249,29 @@ namespace TestApp
 
         private void DrawableClickEvent()
         {
-            autoCompleteTextView.Touch += (s, e) =>
+            if (editText != null)
             {
-                if (e.Event.Action == MotionEventActions.Up)
+                editText.Touch += (s, e) =>
                 {
-                    // Get the drawable right bounds
-                    if (autoCompleteTextView.GetCompoundDrawables()[2] != null) // DrawableRight is at index 2
+                    if (e.Event.Action == MotionEventActions.Up)
                     {
-                        // Get the width of the right drawable
-                        var drawableRightWidth = autoCompleteTextView.GetCompoundDrawables()[2].Bounds.Width();
-
-                        // Check if the touch event is within the bounds of the right drawable
-                        if (e.Event.RawX >= (autoCompleteTextView.Right - drawableRightWidth))
+                        if (editText.GetCompoundDrawables()[2] != null)
                         {
-                            // Handle the click event on DrawableRight
-                            PasteTextFromClipboard(autoCompleteTextView, clipboard);
-                            e.Handled = true; // Prevents further event propagation
-                            return;
+                            var drawableRightWidth = editText.GetCompoundDrawables()[2].Bounds.Width();
+                            if (e.Event.RawX >= (editText.Right - drawableRightWidth))
+                            {
+                                editText.Text = string.Empty;
+                                // PasteTextFromClipboard(autoCompleteTextView, clipboard);
+                                e.Handled = true; // Prevents further event propagation
+                                return;
+                            }
                         }
                     }
-                }
 
-                e.Handled = false; // Let the EditText handle other touch events
-            };
+                    e.Handled = false; // Let the EditText handle other touch events
+                };
+            }
+            
 
         }
         private void HandleDrawableRightClick()
@@ -167,32 +304,22 @@ namespace TestApp
 
         private void SmallProgressBar()
         {
-            //AlertDialog progressDialog;
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
-
-            // Inflate the custom layout
             LayoutInflater inflater = LayoutInflater.From(this);
             View view = inflater.Inflate(Resource.Layout.circular_progress_dialog, null);
 
             builder.SetView(view);
-            builder.SetCancelable(false); // Prevent dismissing by clicking outside
+            builder.SetCancelable(false); 
 
-            // Create and show the dialog
             progressDialog = builder.Create();
-            progressDialog.Window.SetBackgroundDrawableResource(Android.Resource.Color.Transparent); // Make dialog background transparent
+            progressDialog.Window.SetBackgroundDrawableResource(Android.Resource.Color.Transparent); 
             progressDialog.Show();
         }
 
         private async void LoadDataAsync()
         {
             SmallProgressBar();
-            // Show the progress dialog
-            //progressDialog.Show();
-
-            // Simulate a background operation (replace with your actual task)
             await Task.Delay(5000);
-
-            // Hide the progress dialog when the task is done
             progressDialog.Dismiss();
         }
     }
